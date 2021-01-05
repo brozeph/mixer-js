@@ -1,8 +1,8 @@
-import EventEmitter from 'events';
+import { EventEmitter } from 'events';
 
 export class Mixer extends EventEmitter {
   constructor () {
-    super();
+   super(); 
   }
 }
 
