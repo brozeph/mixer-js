@@ -43,7 +43,8 @@
     "gulp-clean": "^0.4.0",
     "gulp-eslint": "^6.0.0",
     "gulp-sourcemaps": "^3.0.0",
-    "mocha": "^8.2.1"
+    "mocha": "^8.2.1",
+    "reqlib": "^1.0.11"
   },
   "dependencies": {
     "@babel/runtime-corejs2": "^7.12.5"
