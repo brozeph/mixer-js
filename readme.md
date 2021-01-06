@@ -37,8 +37,7 @@ playlistRequestOptions.query = {
 };
 playlistTrackItems = await req.get(playlistRequestOptions);
 
-
-
+// create the Mixer
 const mixer = new Mixer({
   // randomize the tracks
   random: true,
@@ -49,10 +48,8 @@ const mixer = new Mixer({
     artist: 5,
     name: 5
   },
-  // the tracks to include in the mix
-  tracks: [{
-
-  }]
+  // the tracks to include in the mix (from the Spotify playlist)
+  tracks: plistData.items
 });
 
 // capture errors... (scenarios where the mix is not completed)
@@ -66,10 +63,12 @@ mixer.on('warning', (message) => {
 });
 
 // create a 4 hour mix starting now
-const mix = mixer.mix({
+let mix = mixer.mix({
   duration: 240, // 4 hours
   startDate: new Date()
 });
+
+console.log(mix);
 ```
 
 ## models
