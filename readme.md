@@ -112,49 +112,23 @@ let timeperiod = {
 
 A rule is effectively a container for one or more `track` objects with additional information that instructs the mixer on how to create the resulting mix. There are numerous fields on the rule that are optional and that have default values that will provided when not implicitly set.
 
-* `dayparts` - provides support for [dayparting](https://en.wikipedia.org/wiki/Dayparting) in the broadcast mix. See [dayparts](#dayparts) below for additional information - there are shorthand forms for each [daypart](#dayparts) object to simplify usage. 
-* `eligibleDates` - if you wish for a list of tracks to only play on a certain range of days (for example, Christmas music during the Christmas season, etc.), this setting can be used.
-* `random` - defines whether tracks should be plucked from the Array of tracks randomly or in sequence order at each loop of rule evaluation
-* `separation` - defines threshholds for separation of content in the resulting broadcast mix (for example, artist separation for when you don't want 5 back-to-back Taylor Swift songs in your mix, or name separation when you don't want multiple back-to-back renditions of Jingle Bells on Christmas).
-* `title` - an optional metadata field that allows one to distinguish one rule object from another
-* `tracks` - an Array containing one or more tracks to include in the mix with the specified rules
+* `dayparts` (Array, optional) ... Provides support for [dayparting](https://en.wikipedia.org/wiki/Dayparting) in the broadcast mix. See [dayparts](#dayparts) below for additional information - there are shorthand forms for each [daypart](#dayparts) object to simplify usage. 
+* `eligibleDates` (optional, Object) ... If a list of tracks should only be included into the mix on a certain range of dates (for example, Christmas music during the Christmas season, etc.), this setting can be used.
+* `random` : `true` (Boolean, optional) ... Defines whether tracks should be plucked from the Array of tracks randomly or in sequence order at each loop of rule evaluation.
+* `separation` (Object, optional) ... Defines threshholds for separation of content in the resulting broadcast mix (for example, artist separation for when you don't want 5 back-to-back Taylor Swift songs in your mix, or name separation when you don't want multiple back-to-back renditions of Jingle Bells on Christmas).
+* `title` (string, optional) ... an optional metadata field that allows one to distinguish one rule object from another
+* `tracks` (Array, required) ... an Array containing one or more tracks to include in the mix with the specified rules
 
 ```javascript
 {
   // optional: specify the days and times when the tracks can 
   // be included... when not provided, all days and times are 
   // eligible
-  "dayparts": {
-    "days": [{
-      "day": 0, 
-      "beginOffset": 0,
-      "duration": 1440
-    }, {
-      "day": 1, 
-      "beginOffset": 0,
-      "duration": 1440
-    }, {
-      "day": 2, 
-      "beginOffset": 0,
-      "duration": 1440
-    }, {
-      "day": 3, 
-      "beginOffset": 0,
-      "duration": 1440
-    }, {
-      "day": 4, 
-      "beginOffset": 0,
-      "duration": 1440
-    }, {
-      "day": 5, 
-      "beginOffset": 0,
-      "duration": 1440
-    }, {
-      "day": 6, 
-      "beginOffset": 0,
-      "duration": 1440
-    }],
-  },
+  "dayparts": [{
+    "beginOffset": 0,
+    "duration": 1440,
+    "weekdays": [0, 1, 2, 3, 4, 5, 6]
+  }],
   // optional: specify the dates when the tracks can be 
   // included when not provided, all dates are eligibile
   "eligibleDates": {
@@ -164,8 +138,8 @@ A rule is effectively a container for one or more `track` objects with additiona
   // optional: set to `true` for random, `false` for 
   // sequential... when not provided, `true` is default
   "random": true,
-  // optional: when not provided, the default values
-  // shown below are used instead
+  // optional: when not provided, defaults are provided (see
+  // separation documentation for more detail)
   "separation": {
     "album": 1,
     "artist": 5,
@@ -183,7 +157,11 @@ A rule is effectively a container for one or more `track` objects with additiona
 
 #### dayparts
 
+The `dayparts` property of the [rule](#rule) model contains an Array of `daypart` objects for each weekday. If `dayparts` aren't specified within the [rule](#rule), then no dayparting is assumed for the tracks... they can be included into the mix for any time of day, and on any day of the week. Each `daypart` contains the following 3 fields:
 
+* `beginOffset` (optional, Number) ... In minutes, this is the offset of time from the start of the day (midnight) for the part to begin.
+* `duration` (optional, Number) ... In minutes, this is the duration of the daypart for the specified weekday.
+* `weekdays` (optional, Array | Number) ... The day of the week for the part (0 is `Sunday`).
 
 #### separation
 
@@ -202,10 +180,10 @@ This object specifies a time period for which a broadcast mix should be generate
 
 ### track
 
-This object is modeled directly from the Spotify API response for Tracks (<https://developer.spotify.com/documentation/web-api/reference/tracks/>). A Spotify API response for tracks can be provided directly, but the only requirements are as follows:
+This object is modeled directly from the Spotify API response for Tracks (<https://developer.spotify.com/documentation/web-api/reference/tracks/>). A Spotify API response for tracks can be provided directly, but the only required fields are as follows:
 
 * `artists` - can either be an `Array` of Artist objects (as defined in the Spotify API response), or a single string value with the artist's name
-* `duration_ms` - is required for dayparting and time separation rules
+* `duration_ms` - necessary for all duration components of the mixing process, including overall mix duration, dayparting and time separation rules
 * `name` - the name of the track
 
 If more meta data or fields are provided for the track object, they are not modified or removed by the mixer (__note: if the track objects are large, and there are many tracks provided, the mixer will consume more memory in the process__).
@@ -245,8 +223,8 @@ let
 
 // create a rule to play randomly from a list of tracks all day Saturday and Sunday
 rules.push({
-  daytimes: [{
-    day: [0, 6]
+  dayparts: [{
+    weekdays: [0, 6]
   }],
   random: true,
   tracks: [ /* tracks */ ]
@@ -254,8 +232,7 @@ rules.push({
 
 // create a rule to play sequentially from a list of tracks every day from noon to 1pm
 rules.push({
-  daytimes: [{
-    day: [0, 1, 2, 3, 4, 5, 6],
+  dayparts: [{
     beginOffset: 720
     duration: 60
   }],
