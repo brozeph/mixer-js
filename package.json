@@ -11,17 +11,18 @@
     "url": "git+ssh://git@github.com/brozeph/mixer-js.git"
   },
   "keywords": [
+    "broadcast",
+    "broadcast programming",
+    "dayparting",
     "music",
-    "mix",
+    "mixing",
     "song",
     "randomizer",
-    "artist",
-    "separation",
-    "album",
-    "separation",
-    "title",
-    "separation",
-    "mixer"
+    "artist separation",
+    "album separation",
+    "title separation",
+    "mixer",
+    "schedule"
   ],
   "author": "Joshua Thomas (https://github.com/brozeph)",
   "license": "ISC",

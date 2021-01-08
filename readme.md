@@ -4,8 +4,6 @@ This library creates a mix of content based on provided mixing instructions and 
 
 ## usage 
 
-### #mix()
-
 ```javascript
 import { Mixer } from 'mixer';
 import { Request } from 'reqlib'; // https://npmjs.com/package/reqlib
@@ -38,7 +36,7 @@ playlistRequestOptions.query = {
 playlistTrackItems = await req.get(playlistRequestOptions);
 
 // create the Mixer
-const mixer = new Mixer({
+let mixer = new Mixer({
   // randomize the tracks
   random: true,
   // separate tracks so that artists and tracks with the 
@@ -71,18 +69,62 @@ let mix = mixer.mix({
 console.log(mix);
 ```
 
+### constructor
+
+The constructor for a mixer accepts either a single object [rule](#rule) or an Array of [rule](#rule) objects. When an Array of rule objects are provided, multiple lists of tracks can be mixed together and additional broadcast mixing features, such as [dayparting](#https://en.wikipedia.org/wiki/Dayparting), can be used. To learn more about rules, see [rule](#rule) below in the [models](#models) portion of the documentation. 
+
+```javascript
+import { Mixer } from 'mixer';
+
+let rules = [ /* Array of rule objects */ ];
+
+let mixer = new Mixer(rules);
+```
+
+### #mix()
+
+Once a `Mixer` instance has been created with one or more [rules](#rule) that contain [tracks](#track), a mix (broadcast) can be generated for a specified (timeperiod)[#timeperiod]. 
+
+```javascript
+import { Mixer } from 'mixer';
+
+let mixer = new Mixer([ /* Array of rule objects */ ]);
+
+let broadcast = mixer.mix({
+  duration : 1440, // for the next 24 hours
+  startDate : new Date() // starting now
+});
+```
+
+If no (timeperiod)[#timeperiod] object is provided, a default time period is created for a duration of 120 minutes beginning now.
+
+```javascript
+// the default timeperiod used if one isn't specified
+let timeperiod = {
+  duration: 120,
+  startDate: new Date()
+}
+```
+
 ## models
 
 ### rule 
 
-A rule is effectively a container for one or more `track` objects with additional information that instructs the mixer on how to create the resulting mix. 
+A rule is effectively a container for one or more `track` objects with additional information that instructs the mixer on how to create the resulting mix. There are numerous fields on the rule that are optional and that have default values that will provided when not implicitly set.
+
+* `dayparts` - provides support for [dayparting](https://en.wikipedia.org/wiki/Dayparting) in the broadcast mix. See [dayparts](#dayparts) below for additional information - there are shorthand forms for each [daypart](#dayparts) object to simplify usage. 
+* `eligibleDates` - if you wish for a list of tracks to only play on a certain range of days (for example, Christmas music during the Christmas season, etc.), this setting can be used.
+* `random` -
+* `separation` -
+* `title` -
+* `tracks` - 
 
 ```javascript
 {
   // optional: specify the days and times when the tracks can 
   // be included... when not provided, all days and times are 
   // eligible
-  "eligibleDates": {
+  "dayparts": {
     "days": [{
       "day": 0, 
       "beginOffset": 0,
@@ -122,15 +164,33 @@ A rule is effectively a container for one or more `track` objects with additiona
   // optional: set to `true` for random, `false` for 
   // sequential... when not provided, `true` is default
   "random": true,
+  // optional: when not provided, the default values
+  // shown below are used instead
   "separation": {
     "album": 1,
     "artist": 5,
     "name": 5
   },
-  "title": "", // optional title to separate 
+  // optional: title to help distinguish multiple rules
+  // from eachother 
+  "title": "", 
+  // required: tracks must be provided
   "tracks": [
     /* list of tracks: see `track` model below */
   ]
+}
+```
+
+#### dayparts
+
+### timeperiod
+
+This object specifies a time period for which a broadcast mix should be generated. This is a simple object that contains two fields, the `startDate` and the `duration` for the period as measured in minutes.
+
+```json
+{
+  "duration": "1440",
+  "startDate": "2021-01-01T00:00:00.000Z"
 }
 ```
 
@@ -139,7 +199,7 @@ A rule is effectively a container for one or more `track` objects with additiona
 This object is modeled directly from the Spotify API response for Tracks (<https://developer.spotify.com/documentation/web-api/reference/tracks/>). A Spotify API response for tracks can be provided directly, but the only requirements are as follows:
 
 * `artists` - can either be an `Array` of Artist objects (as defined in the Spotify API response), or a single string value with the artist's name
-* `duration_ms` - is required for day part and time separation rules
+* `duration_ms` - is required for dayparting and time separation rules
 * `name` - the name of the track
 
 If more meta data or fields are provided for the track object, they are not modified or removed by the mixer (__note: if the track objects are large, and there are many tracks provided, the mixer will consume more memory in the process__).
@@ -183,9 +243,7 @@ rules.push({
     day: [0, 6]
   }],
   random: true,
-  tracks: [{
-
-  }]
+  tracks: [ /* tracks */ ]
 });
 
 // create a rule to play sequentially from a list of tracks every day from noon to 1pm
@@ -196,9 +254,7 @@ rules.push({
     duration: 60
   }],
   random: false,
-  tracks: [{
-    
-  }]
+  tracks: [ /* tracks */ ]
 });
 
 // create a rule to play 
