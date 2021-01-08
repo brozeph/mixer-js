@@ -114,10 +114,10 @@ A rule is effectively a container for one or more `track` objects with additiona
 
 * `dayparts` - provides support for [dayparting](https://en.wikipedia.org/wiki/Dayparting) in the broadcast mix. See [dayparts](#dayparts) below for additional information - there are shorthand forms for each [daypart](#dayparts) object to simplify usage. 
 * `eligibleDates` - if you wish for a list of tracks to only play on a certain range of days (for example, Christmas music during the Christmas season, etc.), this setting can be used.
-* `random` -
-* `separation` -
-* `title` -
-* `tracks` - 
+* `random` - defines whether tracks should be plucked from the Array of tracks randomly or in sequence order at each loop of rule evaluation
+* `separation` - defines threshholds for separation of content in the resulting broadcast mix (for example, artist separation for when you don't want 5 back-to-back Taylor Swift songs in your mix, or name separation when you don't want multiple back-to-back renditions of Jingle Bells on Christmas).
+* `title` - an optional metadata field that allows one to distinguish one rule object from another
+* `tracks` - an Array containing one or more tracks to include in the mix with the specified rules
 
 ```javascript
 {
@@ -182,6 +182,12 @@ A rule is effectively a container for one or more `track` objects with additiona
 ```
 
 #### dayparts
+
+
+
+#### separation
+
+
 
 ### timeperiod
 
