@@ -1,4 +1,4 @@
-// import { Mixer } from 'mixer';
+import { Mixer } from '../dist/index.js'
 import { Request } from 'reqlib'; // https://npmjs.com/package/reqlib
 import url from 'url';
 
@@ -28,9 +28,6 @@ plistOpt.query = {
 };
 plistData = await req.get(plistOpt);
 
-console.log(plistData.items);
-process.exit();
-
 // create a mixer
 const mixer = new Mixer({
   // randomize the tracks
@@ -43,9 +40,7 @@ const mixer = new Mixer({
     name: 5
   },
   // the tracks to include in the mix
-  tracks: [{
-
-  }]
+  tracks: [plistData.items]
 });
 
 // capture errors... (scenarios where the mix is not completed)

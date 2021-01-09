@@ -1,3 +1,3 @@
-import { Mixer } from './mixer';
+import Mixer from './mixer';
 
-export default { Mixer };
+module.exports = { Mixer };

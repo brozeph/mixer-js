@@ -4,6 +4,7 @@
   "description": "mixes songs, not only random, but provides support for artist name, song title, album separation and more...",
   "main": "dist",
   "scripts": {
+    "build": "gulp",
     "test": "mocha"
   },
   "repository": {

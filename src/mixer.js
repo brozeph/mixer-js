@@ -1,9 +1,13 @@
 import { EventEmitter } from 'events';
 
-export class Mixer extends EventEmitter {
-  constructor () {
-   super(); 
+class Mixer extends EventEmitter {
+  constructor (rules) {
+   super();
+  }
+
+  async mix (timeframe) {
+
   }
 }
 
-export default { Mixer };
+module.exports = Mixer;

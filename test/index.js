@@ -1,4 +1,5 @@
 import 'chai/register-should';
+import Mixer from '../src/mixer';
 
 describe('mixer-js', async () => {
   describe('#init()', async () => {
