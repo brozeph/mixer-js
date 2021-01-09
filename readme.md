@@ -159,13 +159,13 @@ A rule is effectively a container for one or more `track` objects with additiona
 
 The `dayparts` property of the [rule](#rule) model contains an Array of `daypart` objects for each weekday. If `dayparts` aren't specified within the [rule](#rule), then no dayparting is assumed for the tracks... they can be included into the mix for any time of day, and on any day of the week. Each `daypart` contains the following 3 fields:
 
-* `beginOffset` (optional, Number) ... In minutes, this is the offset of time from the start of the day (midnight) for the part to begin.
-* `duration` (optional, Number) ... In minutes, this is the duration of the daypart for the specified weekday.
-* `weekdays` (optional, Array | Number) ... The day of the week for the part (0 is `Sunday`).
+* `beginOffset` : `0` (Number, optional) ... In minutes, this is the offset of time from the start of the day (midnight) for the part to begin. When not specified, `0` is used to denote midnight.
+* `duration` : `1440` (Number, optional) ... In minutes, this is the duration of the daypart for the specified weekday. When not specified, `1440` (24 hours) is used to cover the entire day.
+* `weekdays` : `[0, 1, 2, 3, 4, 5, 6 ]` (Array | Number, optional) ... The day of the week for the part (0 is `Sunday`). When not provided, the entire week is used as a default value.
 
 #### separation
 
-
+The separation property of the [rule](#rule) model 
 
 ### timeperiod
 
