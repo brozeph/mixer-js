@@ -71,7 +71,7 @@ console.log(mix);
 
 ### constructor
 
-The constructor for a mixer accepts either a single object [rule](#rule) or an Array of [rule](#rule) objects. When an Array of rule objects are provided, multiple lists of tracks can be mixed together and additional broadcast mixing features, such as [dayparting](#https://en.wikipedia.org/wiki/Dayparting), can be used. To learn more about rules, see [rule](#rule) below in the [models](#models) portion of the documentation. 
+The constructor for a mixer accepts either a single object [rule](#rule) or an Array of [rule](#rule) objects. When an Array of rule objects are provided, multiple lists of tracks can be mixed together and additional broadcast mixing features, such as dayparting (<https://en.wikipedia.org/wiki/Dayparting>), can be used. To learn more about rules, see [rule](#rule) below in the [models](#models) portion of the documentation. 
 
 ```javascript
 import { Mixer } from 'mixer';
@@ -83,7 +83,7 @@ let mixer = new Mixer(rules);
 
 ### #mix()
 
-Once a `Mixer` instance has been created with one or more [rules](#rule) that contain [tracks](#track), a mix (broadcast) can be generated for a specified (timeperiod)[#timeperiod]. 
+Once a `Mixer` instance has been created with one or more [rules](#rule) that contain [tracks](#track), a mix (broadcast) can be generated for a specified [timeperiod](#timeperiod) (an object with fields for `duration` and `startDate`). 
 
 ```javascript
 import { Mixer } from 'mixer';
@@ -96,7 +96,7 @@ let broadcast = mixer.mix({
 });
 ```
 
-If no (timeperiod)[#timeperiod] object is provided, a default time period is created for a duration of 120 minutes beginning now.
+If no [timeperiod](#timeperiod) object is provided, a default time period is created for a duration of 120 minutes beginning now.
 
 ```javascript
 // the default timeperiod used if one isn't specified
@@ -112,11 +112,11 @@ let timeperiod = {
 
 A rule is effectively a container for one or more `track` objects with additional information that instructs the mixer on how to create the resulting mix. There are numerous fields on the rule that are optional and that have default values that will provided when not implicitly set.
 
-* `dayparts` (Array, optional) ... Provides support for [dayparting](https://en.wikipedia.org/wiki/Dayparting) in the broadcast mix. See [dayparts](#dayparts) below for additional information - there are shorthand forms for each [daypart](#dayparts) object to simplify usage. 
+* `dayparts` (Array, optional) ... Provides support for dayparting (<https://en.wikipedia.org/wiki/Dayparting>) in the broadcast mix. See [dayparts](#dayparts) below for additional information - there are shorthand forms for each [daypart](#dayparts) object to simplify usage. 
 * `eligibleDates` (optional, Object) ... If a list of tracks should only be included into the mix on a certain range of dates (for example, Christmas music during the Christmas season, etc.), this setting can be used.
 * `random` : `true` (Boolean, optional) ... Defines whether tracks should be plucked from the Array of tracks randomly or in sequence order at each loop of rule evaluation.
 * `separation` (Object, optional) ... Defines threshholds for separation of content in the resulting broadcast mix (for example, artist separation for when you don't want 5 back-to-back Taylor Swift songs in your mix, or name separation when you don't want multiple back-to-back renditions of Jingle Bells on Christmas).
-* `title` (string, optional) ... an optional metadata field that allows one to distinguish one rule object from another
+* `title` : "" (string, optional) ... an optional metadata field that allows one to distinguish one rule object from another
 * `tracks` (Array, required) ... an Array containing one or more tracks to include in the mix with the specified rules
 
 ```javascript
@@ -135,15 +135,24 @@ A rule is effectively a container for one or more `track` objects with additiona
     "beginDate": new Date("2021-01-01T00:00:00.000Z"),
     "endDate": new Date("2021-12-31T23:59:59.999Z")
   },
+  // optional: defines the minimum number of tracks to schedule
+  // from this rule before scheduling from another rule when
+  // multiple rules are provided to the mixer
+  "podding": 1,
   // optional: set to `true` for random, `false` for 
   // sequential... when not provided, `true` is default
   "random": true,
-  // optional: when not provided, defaults are provided (see
+  // optional: when not provided, defaults are as follows (see
   // separation documentation for more detail)
   "separation": {
-    "album": 1,
-    "artist": 5,
-    "name": 5
+    "albumDuration": 0,
+    "albumTrack": 0,
+    "artistDuration": 0,
+    "artistTrack": 5,
+    "nameDuration": 0,
+    "nameTrack": 5,
+    "ruleDuration": 0,
+    "ruleTrack": 0
   },
   // optional: title to help distinguish multiple rules
   // from eachother 
@@ -157,15 +166,40 @@ A rule is effectively a container for one or more `track` objects with additiona
 
 #### dayparts
 
-The `dayparts` property of the [rule](#rule) model contains an Array of `daypart` objects for each weekday. If `dayparts` aren't specified within the [rule](#rule), then no dayparting is assumed for the tracks... they can be included into the mix for any time of day, and on any day of the week. Each `daypart` contains the following 3 fields:
+The `dayparts` property of the [rule](#rule) contains an Array of `daypart` objects for each weekday. If `dayparts` aren't specified within the [rule](#rule), then no dayparting is assumed for the tracks... they can be included into the mix for any time of day, and on any day of the week. Each `daypart` contains the following 3 fields:
 
 * `beginOffset` : `0` (Number, optional) ... In minutes, this is the offset of time from the start of the day (midnight) for the part to begin. When not specified, `0` is used to denote midnight.
 * `duration` : `1440` (Number, optional) ... In minutes, this is the duration of the daypart for the specified weekday. When not specified, `1440` (24 hours) is used to cover the entire day.
 * `weekdays` : `[0, 1, 2, 3, 4, 5, 6 ]` (Array | Number, optional) ... The day of the week for the part (0 is `Sunday`). When not provided, the entire week is used as a default value.
 
+#### eligibleDates
+
+
+
+#### podding
+
+The podding property of the [rule](#rule) enables multiple tracks to be scheduled from the rule before scheduling tracks from another rule when multiple rules are provided to the mixer. If only one rule is provided, this field is ignored. This feature is handy when the desired outcome is to have 20% of the content come from one set of tracks and 80% to come from another. For example, if 2 rules were provided, rule 1 could be configured with a podding value of `2` and the second rule with a podding value of `8` and the resultant mix would have 2 tracks from rule 1 followed by 8 tracks from rule 2 repeating for the duration of the mix (as specified in the [timeperiod](#timeperiod)).
+
 #### separation
 
-The separation property of the [rule](#rule) model 
+The separation property of the [rule](#rule) allows for a mix to be created where number of other tracks or a time duration threshhold must be met before repeating a track, artist or album. Separation can apply to tracks individually or to all tracks for a rule (i.e. other rule separation). Please note that album, artist and name separation span across all rules that are provided. For example, if there are multiple tracks by the same artist name contained within each rule of a multiple rule mix, artist name separation will apply globally across all of the rules for the mix.
+
+* `albumDuration` : 0 (Number, optional) ... Schedule at least the provided duration (in minutes) of content from a different album before adding another track from this album (i.e. with the same name) into the mix
+* `albumTrack` : 0 (Number, optional) ... Schedule at least the provided number of tracks from a different album before adding another track from this album (i.e. with the same name) into the mix
+* `artistDuration` : 0 (Number, optional) ... Schedule at least the provided duration (in minutes) of content from a different album before adding another track from this artist (i.e. with the same name) into the mix
+* `artistTrack` : 5 (Number, optional) ... Schedule at least the provided number of tracks from a different artist before adding another track from this artist (i.e. with the same name) into the mix
+* `nameDuration` : 0 (Number, optional) ... Schedule at least the provided duration (in minutes) of content with a different track name before adding another track with this track name into the mix
+* `nameTrack` : 5 (Number, optional) ... Schedule at least the provided number of tracks from a different track name before adding another track with this track name into the mix
+* `ruleDuration` : 0 (Number, optional) ... Schedule at least the provided duration (in minutes) of content from other rules before scheduling another track from this rule
+* `ruleTrack` : 0 (Number, optional) ... Schedule at least the provided number of tracks from a different rule before adding another track from this rule into the mix
+
+#### title
+
+This optional property can be used to distinguish rules from eachother when multiple rules are specified.
+
+#### tracks
+
+This is a required Array of [track](#track) items that will be mixed.
 
 ### timeperiod
 
