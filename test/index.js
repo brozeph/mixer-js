@@ -1,12 +1,11 @@
+import { should } from 'chai';
 import 'chai/register-should';
 import fs, { read } from 'fs';
 import Mixer from '../src/mixer';
 
 describe('mixer-js', async () => {
   let 
-    mockRules = [{
-      tracks : []
-    }],
+    mockRules = [],
     playlist1Tracks = [],
     playlist2Tracks = [],
     playlist3Tracks = [];
@@ -37,7 +36,16 @@ describe('mixer-js', async () => {
   });
   
   beforeEach(() => {
-
+    mockRules = [{
+      name : 'Creamy Playlist',
+      tracks : playlist1Tracks
+    }, {
+      name : 'Diplo and Friends Radio Playlist',
+      tracks : playlist2Tracks
+    }, {
+      name : 'Indie Pop Playlist',
+      tracks : playlist3Tracks
+    }];
   });
 
   describe('#init()', async () => {
@@ -47,8 +55,21 @@ describe('mixer-js', async () => {
       }).should.throw('rules are required');
     });
 
+    it('should require tracks for each rule', () => {
+      (() => {
+        mockRules[0].tracks = null;
+        let mixer = new Mixer(mockRules);
+      }).should.throw('tracks are not specified', 'null tracks should throw');
+
+      (() => {
+        mockRules[0].tracks = [];
+        let mixer = new Mixer(mockRules);
+      }).should.throw('tracks are not specified', 'an empty Array of tracks should throw');
+    });
+
     it('should convert a single rules object to an Array', () => {
-      let mixer = new Mixer(mockRules);
+      let mixer = new Mixer(mockRules[0]);
+      mixer.rules.should.be.an('array').with.lengthOf(1);
     });
   });
 });

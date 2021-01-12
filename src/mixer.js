@@ -1,4 +1,16 @@
+import { assert } from 'console';
 import { EventEmitter } from 'events';
+
+function validateRules (rules) {
+  rules.forEach((rule, i) => {
+    // tracks are required
+    if (!rule.tracks || rule.tracks.length === 0) {
+      throw new Error(`rule ${i} invalid: tracks are not specified`);
+    }
+  });
+
+  return rules;
+}
 
 class Mixer extends EventEmitter {
   constructor (rules) {
@@ -13,8 +25,8 @@ class Mixer extends EventEmitter {
      rules = [rules];
    }
 
-   // assign property
-   this.rules = rules;
+   // validate each rule and assign to instance field
+   this.rules = validateRules(rules);
   }
 
   async mix (timeframe) {
