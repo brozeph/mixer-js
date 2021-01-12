@@ -7,11 +7,12 @@ let
   authOpt = url.parse('https://accounts.spotify.com/api/token'),
   clientId = process.env['SPOTIFY_CLIENT_ID'], // https://developer.spotify.com
   plistData,
-  //plistOpt = url.parse('https://api.spotify.com/v1/playlists/6AvLNaeJ7qeF1Ur1kNoiXT/tracks'),
+  plistOpt = url.parse('https://api.spotify.com/v1/playlists/6AvLNaeJ7qeF1Ur1kNoiXT/tracks'),
   //plistOpt = url.parse('https://api.spotify.com/v1/playlists/37i9dQZF1DXdgz8ZB7c2CP/tracks'),
-  plistOpt = url.parse('https://api.spotify.com/v1/playlists/37i9dQZF1DWWEcRhUVtL8n/tracks'),
+  //plistOpt = url.parse('https://api.spotify.com/v1/playlists/37i9dQZF1DWWEcRhUVtL8n/tracks'),
   req = new Request(),
-  secret = process.env['SPOTIFY_CLIENT_SECRET'];
+  secret = process.env['SPOTIFY_CLIENT_SECRET'],
+  tracks = [];
 
 // create a Spotify API bearer token for subsequent requests
 authOpt.headers = {
@@ -25,10 +26,21 @@ plistOpt.headers = {
   'Authorization': ['Bearer', authData['access_token']].join(' ')
 };
 plistOpt.query = {
-  fields : 'items(track(album(name),artists(name),id,name,duration_ms,external_ids,external_urls))',
+  fields : 'next,total,offset,limit,items(track(album(name),artists(name),id,name,duration_ms,external_ids,external_urls))',
   market : 'US'
 };
 plistData = await req.get(plistOpt);
+
+tracks = plistData.items;
+
+while (plistData.next) {
+  plistOpt.query.offset = plistData.offset + 100;
+  plistData = await req.get(plistOpt);
+  tracks = tracks.concat(plistData.items);
+}
+
+console.log(JSON.stringify(tracks, 0, 2));
+process.exit();
 
 // create a mixer
 const mixer = new Mixer({

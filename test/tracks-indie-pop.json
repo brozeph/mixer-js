@@ -2152,5 +2152,557 @@
       "id": "1KjAqIGaGNzKeN3WRzRBB6",
       "name": "Hour 24"
     }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Backyard Boy"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz"
+        },
+        {
+          "name": "Jeremy Zucker"
+        }
+      ],
+      "duration_ms": 129026,
+      "external_ids": {
+        "isrc": "USUG12003954"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4rE4qF4baoXpustrgtnFRw"
+      },
+      "id": "4rE4qF4baoXpustrgtnFRw",
+      "name": "Backyard Boy (with Jeremy Zucker)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Pride"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan"
+        },
+        {
+          "name": "mxmtoon"
+        }
+      ],
+      "duration_ms": 169453,
+      "external_ids": {
+        "isrc": "USUM72020362"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
+      },
+      "id": "708HrtYYClY6j6EOiToEBy",
+      "name": "Pride (with mxmtoon)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Moving Men"
+      },
+      "artists": [
+        {
+          "name": "Myd"
+        },
+        {
+          "name": "Mac DeMarco"
+        }
+      ],
+      "duration_ms": 167786,
+      "external_ids": {
+        "isrc": "FR0NT2003000"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3y4I9VECfNbDXYN2bXh9hV"
+      },
+      "id": "3y4I9VECfNbDXYN2bXh9hV",
+      "name": "Moving Men"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Golden Girl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green"
+        }
+      ],
+      "duration_ms": 195399,
+      "external_ids": {
+        "isrc": "GBKPL2024739"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7A6kJKKfiYo0YBn2oqoyyh"
+      },
+      "id": "7A6kJKKfiYo0YBn2oqoyyh",
+      "name": "Golden Girl"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "On the Lookout (feat. Raffaella)"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES"
+        },
+        {
+          "name": "Raffaella"
+        }
+      ],
+      "duration_ms": 229560,
+      "external_ids": {
+        "isrc": "CAN112000498"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3kYd839jswPw1go3Sd6nvf"
+      },
+      "id": "3kYd839jswPw1go3Sd6nvf",
+      "name": "On the Lookout (feat. Raffaella)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Mad World"
+      },
+      "artists": [
+        {
+          "name": "X Lovers"
+        }
+      ],
+      "duration_ms": 140560,
+      "external_ids": {
+        "isrc": "USRC12002241"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1pqdJX0O81b31BSuaXdCO6"
+      },
+      "id": "1pqdJX0O81b31BSuaXdCO6",
+      "name": "I Feel Like Shit"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Maybe Don't (feat. JP Saxe) [HONNE Remix]"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters"
+        },
+        {
+          "name": "JP Saxe"
+        },
+        {
+          "name": "HONNE"
+        }
+      ],
+      "duration_ms": 175997,
+      "external_ids": {
+        "isrc": "GBAHS2001042"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/11MUf3KmUWkwGGT0nHgv7g"
+      },
+      "id": "11MUf3KmUWkwGGT0nHgv7g",
+      "name": "Maybe Don't (feat. JP Saxe) - HONNE Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Halloween"
+      },
+      "artists": [
+        {
+          "name": "Young Rising Sons"
+        }
+      ],
+      "duration_ms": 155697,
+      "external_ids": {
+        "isrc": "QMGR32196490"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1qx755YI9plWMkHAoPq1lH"
+      },
+      "id": "1qx755YI9plWMkHAoPq1lH",
+      "name": "Halloween"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "DOUCHEBAG"
+      },
+      "artists": [
+        {
+          "name": "Chloe Lilac"
+        }
+      ],
+      "duration_ms": 214853,
+      "external_ids": {
+        "isrc": "USRC12000119"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5ipcN7k8N08XaMyd9rcFOO"
+      },
+      "id": "5ipcN7k8N08XaMyd9rcFOO",
+      "name": "HERE'S YOUR SONG"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "One Woman"
+      },
+      "artists": [
+        {
+          "name": "STACEY"
+        }
+      ],
+      "duration_ms": 220115,
+      "external_ids": {
+        "isrc": "GBKPL2022928"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3WZ1LW2FwEWVLI3nf59WZb"
+      },
+      "id": "3WZ1LW2FwEWVLI3nf59WZb",
+      "name": "One Woman"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "TV (feat. Pom Pom Squad)"
+      },
+      "artists": [
+        {
+          "name": "Tyzo Bloom"
+        },
+        {
+          "name": "Pom Pom Squad"
+        }
+      ],
+      "duration_ms": 246879,
+      "external_ids": {
+        "isrc": "QM6P42038831"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dy5gd8IRckEx4iweoU6UR"
+      },
+      "id": "2dy5gd8IRckEx4iweoU6UR",
+      "name": "TV (feat. Pom Pom Squad)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "weird!"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD"
+        }
+      ],
+      "duration_ms": 167365,
+      "external_ids": {
+        "isrc": "USUG12003336"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4K5wju7Hht1PuqfFlES2l5"
+      },
+      "id": "4K5wju7Hht1PuqfFlES2l5",
+      "name": "cotton candy"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Didn't Make It"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams"
+        }
+      ],
+      "duration_ms": 232453,
+      "external_ids": {
+        "isrc": "USUS12000533"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/293vQBzppoLGqWgSwOzmxC"
+      },
+      "id": "293vQBzppoLGqWgSwOzmxC",
+      "name": "Didn't Make It"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Stupid Boys"
+      },
+      "artists": [
+        {
+          "name": "Bleached"
+        }
+      ],
+      "duration_ms": 133396,
+      "external_ids": {
+        "isrc": "USJ5G2024401"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3VVTR5byzYX15kSLhENnVN"
+      },
+      "id": "3VVTR5byzYX15kSLhENnVN",
+      "name": "Stupid Boys"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Emotions on Rollerskates"
+      },
+      "artists": [
+        {
+          "name": "Ryann"
+        }
+      ],
+      "duration_ms": 199000,
+      "external_ids": {
+        "isrc": "GBKPL2021851"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2N8JOMhgbI28g9h3C0kPZY"
+      },
+      "id": "2N8JOMhgbI28g9h3C0kPZY",
+      "name": "Rollerskates"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Kathleen II"
+      },
+      "artists": [
+        {
+          "name": "Kathleen"
+        }
+      ],
+      "duration_ms": 200959,
+      "external_ids": {
+        "isrc": "USWB12003858"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/35xowRCEDithOJLl0A1XcU"
+      },
+      "id": "35xowRCEDithOJLl0A1XcU",
+      "name": "Can't Sleep"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "yayou hoi"
+      },
+      "artists": [
+        {
+          "name": "sogumm"
+        },
+        {
+          "name": "OHHYUK"
+        }
+      ],
+      "duration_ms": 188149,
+      "external_ids": {
+        "isrc": "KRC712000048"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Thafr92OJpMDGTgpV1Q0M"
+      },
+      "id": "6Thafr92OJpMDGTgpV1Q0M",
+      "name": "yayou hoi"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "It Might Take a Woman"
+      },
+      "artists": [
+        {
+          "name": "Girlhood"
+        }
+      ],
+      "duration_ms": 190960,
+      "external_ids": {
+        "isrc": "GBCSG2000140"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59FVrD6JZb0PsF1Ok9AoPb"
+      },
+      "id": "59FVrD6JZb0PsF1Ok9AoPb",
+      "name": "It Might Take a Woman"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Does It Make You Feel Good?"
+      },
+      "artists": [
+        {
+          "name": "Joesef"
+        }
+      ],
+      "duration_ms": 183308,
+      "external_ids": {
+        "isrc": "GBKPL2021192"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4ELXniqcm1QKYoJpFPE5eO"
+      },
+      "id": "4ELXniqcm1QKYoJpFPE5eO",
+      "name": "Does It Make You Feel Good?"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "best friends (bonus track)"
+      },
+      "artists": [
+        {
+          "name": "prettyboyshav"
+        }
+      ],
+      "duration_ms": 211237,
+      "external_ids": {
+        "isrc": "QM24S2008979"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2i6Rv1qXMPq0zPsIWFH5bZ"
+      },
+      "id": "2i6Rv1qXMPq0zPsIWFH5bZ",
+      "name": "best friends (bonus track)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Block Your Number"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour"
+        }
+      ],
+      "duration_ms": 202545,
+      "external_ids": {
+        "isrc": "QZC5P1800299"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7Fn2VUNJhnFLKJ07yYAP1x"
+      },
+      "id": "7Fn2VUNJhnFLKJ07yYAP1x",
+      "name": "Block Your Number"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "i'm glad that you found someone"
+      },
+      "artists": [
+        {
+          "name": "sad alex"
+        },
+        {
+          "name": "gnash"
+        }
+      ],
+      "duration_ms": 138352,
+      "external_ids": {
+        "isrc": "USP6L2000534"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2dEeqbtc9uQ9YeMEhbgesL"
+      },
+      "id": "2dEeqbtc9uQ9YeMEhbgesL",
+      "name": "i'm glad that you found someone"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Dangerous"
+      },
+      "artists": [
+        {
+          "name": "david hugo"
+        }
+      ],
+      "duration_ms": 171874,
+      "external_ids": {
+        "isrc": "QZ93L2045462"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/66k2yf5A5yeWidimsHOtSF"
+      },
+      "id": "66k2yf5A5yeWidimsHOtSF",
+      "name": "Dangerous"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Californian Soil"
+      },
+      "artists": [
+        {
+          "name": "London Grammar"
+        }
+      ],
+      "duration_ms": 221387,
+      "external_ids": {
+        "isrc": "GBCEN2000077"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/64G80FvNMblHjmo2saPGYN"
+      },
+      "id": "64G80FvNMblHjmo2saPGYN",
+      "name": "Californian Soil"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Someone Special"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North"
+        }
+      ],
+      "duration_ms": 256671,
+      "external_ids": {
+        "isrc": "QMCE32000461"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7fjTM66o7hSVNoub9W1HnY"
+      },
+      "id": "7fjTM66o7hSVNoub9W1HnY",
+      "name": "Someone Special"
+    }
   }
 ]
