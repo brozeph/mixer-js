@@ -7,7 +7,9 @@ let
   authOpt = url.parse('https://accounts.spotify.com/api/token'),
   clientId = process.env['SPOTIFY_CLIENT_ID'], // https://developer.spotify.com
   plistData,
-  plistOpt = url.parse('https://api.spotify.com/v1/playlists/6AvLNaeJ7qeF1Ur1kNoiXT/tracks'),
+  //plistOpt = url.parse('https://api.spotify.com/v1/playlists/6AvLNaeJ7qeF1Ur1kNoiXT/tracks'),
+  //plistOpt = url.parse('https://api.spotify.com/v1/playlists/37i9dQZF1DXdgz8ZB7c2CP/tracks'),
+  plistOpt = url.parse('https://api.spotify.com/v1/playlists/37i9dQZF1DWWEcRhUVtL8n/tracks'),
   req = new Request(),
   secret = process.env['SPOTIFY_CLIENT_SECRET'];
 

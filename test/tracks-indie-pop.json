@@ -1,0 +1,2156 @@
+[
+  {
+    "track": {
+      "album": {
+        "name": "PAIN"
+      },
+      "artists": [
+        {
+          "name": "King Princess"
+        }
+      ],
+      "duration_ms": 218200,
+      "external_ids": {
+        "isrc": "USSM12006567"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL"
+      },
+      "id": "7quWqKzjJwYXF3cqSDSCRL",
+      "name": "PAIN"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "love, or the lack thereof"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar"
+        }
+      ],
+      "duration_ms": 187800,
+      "external_ids": {
+        "isrc": "USRC12003806"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd"
+      },
+      "id": "07s5wOe2qlyWWsf5I5gRxd",
+      "name": "love, or the lack thereof"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "i wanna kiss boys cos i'm bored"
+      },
+      "artists": [
+        {
+          "name": "Lucy Sugerman"
+        }
+      ],
+      "duration_ms": 176498,
+      "external_ids": {
+        "isrc": "AUBEC2066932"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BGk9BV2Bar129ZNJFqgWA"
+      },
+      "id": "5BGk9BV2Bar129ZNJFqgWA",
+      "name": "i wanna kiss boys cos i'm bored"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Immunity"
+      },
+      "artists": [
+        {
+          "name": "Clairo"
+        }
+      ],
+      "duration_ms": 188386,
+      "external_ids": {
+        "isrc": "US4HB1900086"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
+      },
+      "id": "7B3z0ySL9Rr0XvZEAjWZzM",
+      "name": "Sofia"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Good Girls (Don’t Get Used)"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny"
+        }
+      ],
+      "duration_ms": 215402,
+      "external_ids": {
+        "isrc": "USQE92000169"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z"
+      },
+      "id": "2yKNCN7jsi5XtwJL5jBG1z",
+      "name": "Good Girls (Don’t Get Used)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Petrol Bloom"
+      },
+      "artists": [
+        {
+          "name": "LAUREL"
+        }
+      ],
+      "duration_ms": 212280,
+      "external_ids": {
+        "isrc": "GB6TW2000156"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5VbH21TVJrKIsDpNbpTi7B"
+      },
+      "id": "5VbH21TVJrKIsDpNbpTi7B",
+      "name": "Appetite"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Nothing Happens"
+      },
+      "artists": [
+        {
+          "name": "Wallows"
+        },
+        {
+          "name": "Clairo"
+        }
+      ],
+      "duration_ms": 178000,
+      "external_ids": {
+        "isrc": "USAT21812258"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm"
+      },
+      "id": "57RA3JGafJm5zRtKJiKPIm",
+      "name": "Are You Bored Yet? (feat. Clairo)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "4runner"
+      },
+      "artists": [
+        {
+          "name": "prettyboyshav"
+        }
+      ],
+      "duration_ms": 248314,
+      "external_ids": {
+        "isrc": "QM24S1921576"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6k0eaZimYD82ZfYXxg9s9E"
+      },
+      "id": "6k0eaZimYD82ZfYXxg9s9E",
+      "name": "4runner"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Backyard Boy (Stripped)"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz"
+        }
+      ],
+      "duration_ms": 129240,
+      "external_ids": {
+        "isrc": "QZHN62022495"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
+      },
+      "id": "04F42oEuKrRComYJfJuyVR",
+      "name": "Backyard Boy"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Fuzzybrain"
+      },
+      "artists": [
+        {
+          "name": "Dayglow"
+        }
+      ],
+      "duration_ms": 278769,
+      "external_ids": {
+        "isrc": "TCADL1825079"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN"
+      },
+      "id": "64lsIF5pw0sJY0gV5kz0RN",
+      "name": "Can I Call You Tonight?"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Change"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves"
+        }
+      ],
+      "duration_ms": 172280,
+      "external_ids": {
+        "isrc": "GBK3W2001563"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/12RrfFKWOOzbhjt1LtQgxj"
+      },
+      "id": "12RrfFKWOOzbhjt1LtQgxj",
+      "name": "Change"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "CONVERSATIONS"
+      },
+      "artists": [
+        {
+          "name": "Aries"
+        }
+      ],
+      "duration_ms": 164174,
+      "external_ids": {
+        "isrc": "USQX92004870"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3AivUXivaVYYLKahJPg5y6"
+      },
+      "id": "3AivUXivaVYYLKahJPg5y6",
+      "name": "CONVERSATIONS"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "intimate moments"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar"
+        }
+      ],
+      "duration_ms": 210506,
+      "external_ids": {
+        "isrc": "USRC12003763"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0Tj5Dm8TNH4nzXgzAztyJE"
+      },
+      "id": "0Tj5Dm8TNH4nzXgzAztyJE",
+      "name": "intimate moments"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Rabbit Hole"
+      },
+      "artists": [
+        {
+          "name": "Cherry Glazerr"
+        }
+      ],
+      "duration_ms": 179146,
+      "external_ids": {
+        "isrc": "US38W2043001"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5D1aJfnGGdU0WjfV2pQ9fm"
+      },
+      "id": "5D1aJfnGGdU0WjfV2pQ9fm",
+      "name": "Rabbit Hole"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Damaged Vol. 2"
+      },
+      "artists": [
+        {
+          "name": "bülow"
+        }
+      ],
+      "duration_ms": 159453,
+      "external_ids": {
+        "isrc": "CAUM71800073"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0g21KZ1XJuhwexWPLpuEt1"
+      },
+      "id": "0g21KZ1XJuhwexWPLpuEt1",
+      "name": "You & Jennifer"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Brush Fire"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams"
+        }
+      ],
+      "duration_ms": 190426,
+      "external_ids": {
+        "isrc": "USUG12001930"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+      },
+      "id": "4jp8ragG1fHm1eucECebYF",
+      "name": "Brush Fire"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "dawn"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon"
+        }
+      ],
+      "duration_ms": 169413,
+      "external_ids": {
+        "isrc": "GBKPL2095658"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2z2S7tNx7Ckn87AUSvfyFe"
+      },
+      "id": "2z2S7tNx7Ckn87AUSvfyFe",
+      "name": "no faker"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "bittersweet"
+      },
+      "artists": [
+        {
+          "name": "remme"
+        }
+      ],
+      "duration_ms": 159532,
+      "external_ids": {
+        "isrc": "DEUM72006798"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4tMx9TwsMwvPKJKpQZcxDV"
+      },
+      "id": "4tMx9TwsMwvPKJKpQZcxDV",
+      "name": "bittersweet"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Warm"
+      },
+      "artists": [
+        {
+          "name": "Alaska Reid"
+        }
+      ],
+      "duration_ms": 206850,
+      "external_ids": {
+        "isrc": "QMFME2005924"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5iZvKkCu5lxr4u1MjWPM5f"
+      },
+      "id": "5iZvKkCu5lxr4u1MjWPM5f",
+      "name": "Warm"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Somewhere"
+      },
+      "artists": [
+        {
+          "name": "Hauskey"
+        }
+      ],
+      "duration_ms": 170693,
+      "external_ids": {
+        "isrc": "USUM72018529"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0yTfXjMmoCQVmn2kYjBodD"
+      },
+      "id": "0yTfXjMmoCQVmn2kYjBodD",
+      "name": "Somewhere"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "GUIDO/MISS KARMA"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota"
+        }
+      ],
+      "duration_ms": 172375,
+      "external_ids": {
+        "isrc": "QZ93L2057947"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3PdZ7ePXNA57Z03QbioxeR"
+      },
+      "id": "3PdZ7ePXNA57Z03QbioxeR",
+      "name": "GUIDO/MISS KARMA"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "cherry blossom"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies"
+        }
+      ],
+      "duration_ms": 140162,
+      "external_ids": {
+        "isrc": "USUM72022577"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN"
+      },
+      "id": "44xUqPXksQ2MNtuF2AuRBN",
+      "name": "cherry blossom"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Save Myself"
+      },
+      "artists": [
+        {
+          "name": "Ashe"
+        }
+      ],
+      "duration_ms": 224502,
+      "external_ids": {
+        "isrc": "USQE92000092"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ"
+      },
+      "id": "6QDZlGAY1njNqAdOM6PryZ",
+      "name": "Save Myself"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Birthday Boy (Party Favors)"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos"
+        },
+        {
+          "name": "eli."
+        },
+        {
+          "name": "Hojean"
+        }
+      ],
+      "duration_ms": 228000,
+      "external_ids": {
+        "isrc": "QM7282042175"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1WWXRNfFhZWbLD3jGcC8T0"
+      },
+      "id": "1WWXRNfFhZWbLD3jGcC8T0",
+      "name": "Bloom - Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Busy"
+      },
+      "artists": [
+        {
+          "name": "Middle Part"
+        }
+      ],
+      "duration_ms": 143640,
+      "external_ids": {
+        "isrc": "QZ93L2045975"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs"
+      },
+      "id": "1ZOvGngH4YojNtbhtzJCZs",
+      "name": "Busy"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "TELESCOPE"
+      },
+      "artists": [
+        {
+          "name": "Hadji Gaviota"
+        },
+        {
+          "name": "papichuloteej"
+        },
+        {
+          "name": "Sintoria"
+        }
+      ],
+      "duration_ms": 183529,
+      "external_ids": {
+        "isrc": "QZ93L2055836"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0hSF71xjBaLyh4c7cV60hX"
+      },
+      "id": "0hSF71xjBaLyh4c7cV60hX",
+      "name": "TELESCOPE"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Slow EP"
+      },
+      "artists": [
+        {
+          "name": "Hauskey"
+        }
+      ],
+      "duration_ms": 141297,
+      "external_ids": {
+        "isrc": "USUM72021224"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0i81ejGX8h3T3I8XKOdtry"
+      },
+      "id": "0i81ejGX8h3T3I8XKOdtry",
+      "name": "Silver Lining"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Good Advice"
+      },
+      "artists": [
+        {
+          "name": "khai dreams"
+        }
+      ],
+      "duration_ms": 164295,
+      "external_ids": {
+        "isrc": "GBKPL2029459"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM"
+      },
+      "id": "4JVPw2DvZp4faUTHjfa4PM",
+      "name": "Good Advice"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Bardot"
+      },
+      "artists": [
+        {
+          "name": "Raffaella"
+        }
+      ],
+      "duration_ms": 198496,
+      "external_ids": {
+        "isrc": "USQE92000175"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2EZU7r2uMayY1wFTN8WwQw"
+      },
+      "id": "2EZU7r2uMayY1wFTN8WwQw",
+      "name": "Bardot"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Dazed & Amused (Tim Atlas Remix)"
+      },
+      "artists": [
+        {
+          "name": "Aaron Taos"
+        },
+        {
+          "name": "Tim Atlas"
+        }
+      ],
+      "duration_ms": 154666,
+      "external_ids": {
+        "isrc": "QMBZ92074148"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/36NNE2IVJURJeFjsRTi6Fv"
+      },
+      "id": "36NNE2IVJURJeFjsRTi6Fv",
+      "name": "Dazed & Amused - Tim Atlas Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Germs"
+      },
+      "artists": [
+        {
+          "name": "Sycco"
+        }
+      ],
+      "duration_ms": 231972,
+      "external_ids": {
+        "isrc": "AUFF02000180"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4aYReiTel4KEnn0kUkU1OU"
+      },
+      "id": "4aYReiTel4KEnn0kUkU1OU",
+      "name": "Germs"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Man's World"
+      },
+      "artists": [
+        {
+          "name": "MARINA"
+        }
+      ],
+      "duration_ms": 208266,
+      "external_ids": {
+        "isrc": "USAT22001218"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2XWusA74Rg68E23sVOfBlK"
+      },
+      "id": "2XWusA74Rg68E23sVOfBlK",
+      "name": "Man's World"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Because I Wanted You to Know"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann"
+        }
+      ],
+      "duration_ms": 179083,
+      "external_ids": {
+        "isrc": "QMFME2000719"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD"
+      },
+      "id": "3Maqlu2aPlU8NluW19O8JD",
+      "name": "Paper Mache World"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Rancho Catastrophe"
+      },
+      "artists": [
+        {
+          "name": "Terror Jr"
+        }
+      ],
+      "duration_ms": 187003,
+      "external_ids": {
+        "isrc": "QM24S2010899"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3cZghnx0vGbhMgPtSSNKWG"
+      },
+      "id": "3cZghnx0vGbhMgPtSSNKWG",
+      "name": "Wait"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "There’s No Insurance For a Broken Heart"
+      },
+      "artists": [
+        {
+          "name": "Ryan Woods"
+        }
+      ],
+      "duration_ms": 203526,
+      "external_ids": {
+        "isrc": "US39N2001213"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/24vHN1HCkhlQ0t29PTmagg"
+      },
+      "id": "24vHN1HCkhlQ0t29PTmagg",
+      "name": "There’s No Insurance For a Broken Heart"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "I'D RATHER GO TO BED"
+      },
+      "artists": [
+        {
+          "name": "G Flip"
+        }
+      ],
+      "duration_ms": 228791,
+      "external_ids": {
+        "isrc": "AUFF02000182"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/56UaiLojZ2hD0856fADjIg"
+      },
+      "id": "56UaiLojZ2hD0856fADjIg",
+      "name": "I'D RATHER GO TO BED"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Nowhere To Run"
+      },
+      "artists": [
+        {
+          "name": "MarthaGunn"
+        }
+      ],
+      "duration_ms": 247255,
+      "external_ids": {
+        "isrc": "GB6TW2000216"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3gLDhSSAQBZ2QeJyAuLtZ1"
+      },
+      "id": "3gLDhSSAQBZ2QeJyAuLtZ1",
+      "name": "Nowhere To Run"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Must Stop (feat. Sarah Barthel of Phantogram) [Icarus Better Daze Mix]"
+      },
+      "artists": [
+        {
+          "name": "ONR"
+        },
+        {
+          "name": "Phantogram"
+        },
+        {
+          "name": "Icarus"
+        }
+      ],
+      "duration_ms": 266400,
+      "external_ids": {
+        "isrc": "USWB12004635"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6cb6DR6i07ZA0I0B1qnpQi"
+      },
+      "id": "6cb6DR6i07ZA0I0B1qnpQi",
+      "name": "Must Stop (feat. Sarah Barthel of Phantogram) [Icarus Better Daze Mix]"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Something To Feel Good About"
+      },
+      "artists": [
+        {
+          "name": "Will Joseph Cook"
+        }
+      ],
+      "duration_ms": 185231,
+      "external_ids": {
+        "isrc": "UKY6X2000009"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/30DKmospmuSgNijNNQGXeb"
+      },
+      "id": "30DKmospmuSgNijNNQGXeb",
+      "name": "Boundary Street"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Dinner Plate"
+      },
+      "artists": [
+        {
+          "name": "Terror Jr"
+        }
+      ],
+      "duration_ms": 133846,
+      "external_ids": {
+        "isrc": "QM24S2008050"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2eo2NthlFk3a2FFBIHefIQ"
+      },
+      "id": "2eo2NthlFk3a2FFBIHefIQ",
+      "name": "Dinner Plate"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "The Clouds"
+      },
+      "artists": [
+        {
+          "name": "Matilda Cole"
+        }
+      ],
+      "duration_ms": 139984,
+      "external_ids": {
+        "isrc": "NLRD51952765"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5SegYKHnOYeNSroxWdJ1Wc"
+      },
+      "id": "5SegYKHnOYeNSroxWdJ1Wc",
+      "name": "The Clouds"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Classic"
+      },
+      "artists": [
+        {
+          "name": "Tori Templet"
+        }
+      ],
+      "duration_ms": 167787,
+      "external_ids": {
+        "isrc": "TCAFF2006095"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3nXCsRBwRBCJv8owAJnYQ0"
+      },
+      "id": "3nXCsRBwRBCJv8owAJnYQ0",
+      "name": "Classic"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "UNITED GIRLS ROCK'N'ROLL CLUB"
+      },
+      "artists": [
+        {
+          "name": "CHAI"
+        },
+        {
+          "name": "Hinds"
+        }
+      ],
+      "duration_ms": 176938,
+      "external_ids": {
+        "isrc": "JPP302000316"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7oVDQPi77CXAlWpHxrsnPb"
+      },
+      "id": "7oVDQPi77CXAlWpHxrsnPb",
+      "name": "UNITED GIRLS ROCK'N'ROLL CLUB"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Weirdo"
+      },
+      "artists": [
+        {
+          "name": "More Fatter"
+        }
+      ],
+      "duration_ms": 181177,
+      "external_ids": {
+        "isrc": "QZHN92054570"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2bXZrZbhRU6IQha9s5I2X2"
+      },
+      "id": "2bXZrZbhRU6IQha9s5I2X2",
+      "name": "Weirdo"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Hoops"
+      },
+      "artists": [
+        {
+          "name": "Wolf"
+        }
+      ],
+      "duration_ms": 199371,
+      "external_ids": {
+        "isrc": "USA2P2034882"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
+      },
+      "id": "0aHYvskrJfgSgfRmxWjCbZ",
+      "name": "Hoops"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Futon"
+      },
+      "artists": [
+        {
+          "name": "Ūla"
+        }
+      ],
+      "duration_ms": 156545,
+      "external_ids": {
+        "isrc": "QZK6F2054867"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0F57gwy0G6aqnaMAH1ELSV"
+      },
+      "id": "0F57gwy0G6aqnaMAH1ELSV",
+      "name": "Futon"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Happen To Me"
+      },
+      "artists": [
+        {
+          "name": "BENEE"
+        }
+      ],
+      "duration_ms": 231700,
+      "external_ids": {
+        "isrc": "USUM72019973"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R"
+      },
+      "id": "1bPo0RfCT7T4GHblhc7c7R",
+      "name": "Happen To Me"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Want Me"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen"
+        }
+      ],
+      "duration_ms": 258319,
+      "external_ids": {
+        "isrc": "GBUM72003860"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3gZyxP7keADPPc8lEJWehW"
+      },
+      "id": "3gZyxP7keADPPc8lEJWehW",
+      "name": "Want Me"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Wallflower"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas"
+        }
+      ],
+      "duration_ms": 177498,
+      "external_ids": {
+        "isrc": "CAN112000532"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2aLsrZVPkJm6pm05WXZ0aC"
+      },
+      "id": "2aLsrZVPkJm6pm05WXZ0aC",
+      "name": "Wallflower"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "GIRL ON TV"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo"
+        }
+      ],
+      "duration_ms": 191733,
+      "external_ids": {
+        "isrc": "USAT22006355"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe"
+      },
+      "id": "6SnE7mmmYVpvd3QRkpKyXe",
+      "name": "GIRL ON TV"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "In My Car"
+      },
+      "artists": [
+        {
+          "name": "Jimi Somewhere"
+        }
+      ],
+      "duration_ms": 221008,
+      "external_ids": {
+        "isrc": "USUS12000605"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/19PaC9pxp89ZyZUeusIrOG"
+      },
+      "id": "19PaC9pxp89ZyZUeusIrOG",
+      "name": "In My Car"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "texas summer"
+      },
+      "artists": [
+        {
+          "name": "Young Saab"
+        },
+        {
+          "name": "jackson lee morgan"
+        }
+      ],
+      "duration_ms": 170184,
+      "external_ids": {
+        "isrc": "QMEZE1948951"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1LgS7KOi9ks0aup9O8JGSR"
+      },
+      "id": "1LgS7KOi9ks0aup9O8JGSR",
+      "name": "texas summer"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Random Thoughts"
+      },
+      "artists": [
+        {
+          "name": "Tyzo Bloom"
+        },
+        {
+          "name": "meija"
+        }
+      ],
+      "duration_ms": 235731,
+      "external_ids": {
+        "isrc": "QM6P42038829"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/09USLRwzsSitztRekqWpM3"
+      },
+      "id": "09USLRwzsSitztRekqWpM3",
+      "name": "I'm Not Okay (feat. meija)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "202Ø"
+      },
+      "artists": [
+        {
+          "name": "Caye"
+        }
+      ],
+      "duration_ms": 198626,
+      "external_ids": {
+        "isrc": "QM24S2010511"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0GvkYGfvARyRBLK0dQV2JR"
+      },
+      "id": "0GvkYGfvARyRBLK0dQV2JR",
+      "name": "202Ø"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "i'm busy"
+      },
+      "artists": [
+        {
+          "name": "bloody white"
+        }
+      ],
+      "duration_ms": 168000,
+      "external_ids": {
+        "isrc": "QZ93L2051335"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr"
+      },
+      "id": "5WMym0tnIA4jkBvyl5KmXr",
+      "name": "i'm busy"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Otherside"
+      },
+      "artists": [
+        {
+          "name": "Trella"
+        }
+      ],
+      "duration_ms": 181090,
+      "external_ids": {
+        "isrc": "QZMEQ2079626"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4f76nMYcvzFX8gi9GnPcid"
+      },
+      "id": "4f76nMYcvzFX8gi9GnPcid",
+      "name": "Otherside"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "AUGUST IS A FEVER"
+      },
+      "artists": [
+        {
+          "name": "ella jane"
+        }
+      ],
+      "duration_ms": 217226,
+      "external_ids": {
+        "isrc": "QZ93L2055477"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3hgg5A1irFog2hgRnYIRfv"
+      },
+      "id": "3hgg5A1irFog2hgRnYIRfv",
+      "name": "AUGUST IS A FEVER"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Pick Me Up"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bochner"
+        }
+      ],
+      "duration_ms": 164000,
+      "external_ids": {
+        "isrc": "QZ93L2050334"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5"
+      },
+      "id": "77d7t7SYR0YAXgXePYo8t5",
+      "name": "Pick Me Up"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Shady"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman"
+        }
+      ],
+      "duration_ms": 175205,
+      "external_ids": {
+        "isrc": "GBKPL2029096"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4SPq74rXWTLniPFUYxK2eh"
+      },
+      "id": "4SPq74rXWTLniPFUYxK2eh",
+      "name": "Shady"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Reality Check Please"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale"
+        }
+      ],
+      "duration_ms": 220597,
+      "external_ids": {
+        "isrc": "AUCZC2000038"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6EoXGCeTcvw8vZT9alKAbK"
+      },
+      "id": "6EoXGCeTcvw8vZT9alKAbK",
+      "name": "Reality Check Please"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Medicine"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen"
+        }
+      ],
+      "duration_ms": 238806,
+      "external_ids": {
+        "isrc": "GBUM72003862"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7IcTNzulv3RLQUZV5sIT66"
+      },
+      "id": "7IcTNzulv3RLQUZV5sIT66",
+      "name": "Online Dating"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Better"
+      },
+      "artists": [
+        {
+          "name": "Gretta Ray"
+        },
+        {
+          "name": "Japanese Wallpaper"
+        }
+      ],
+      "duration_ms": 282135,
+      "external_ids": {
+        "isrc": "AUUM72000919"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7eTMBO0u4TtbACmYEwczBd"
+      },
+      "id": "7eTMBO0u4TtbACmYEwczBd",
+      "name": "Better"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Avery"
+      },
+      "artists": [
+        {
+          "name": "Oscar Welsh"
+        }
+      ],
+      "duration_ms": 194634,
+      "external_ids": {
+        "isrc": "NLRD51952774"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3d93pRHHPjkrDE5Jn4G7Yl"
+      },
+      "id": "3d93pRHHPjkrDE5Jn4G7Yl",
+      "name": "Avery"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Ocean"
+      },
+      "artists": [
+        {
+          "name": "Young Lungs"
+        }
+      ],
+      "duration_ms": 150486,
+      "external_ids": {
+        "isrc": "QZNWQ2069512"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN"
+      },
+      "id": "1MV2ab1Q81XpS8yCZYYFGN",
+      "name": "Ocean"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Are You In My Head"
+      },
+      "artists": [
+        {
+          "name": "Viji"
+        }
+      ],
+      "duration_ms": 230960,
+      "external_ids": {
+        "isrc": "GBK3W2001470"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3NRSLii5EisJ6Uj61o3may"
+      },
+      "id": "3NRSLii5EisJ6Uj61o3may",
+      "name": "Are You In My Head"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Only Time Makes It Human"
+      },
+      "artists": [
+        {
+          "name": "King Princess"
+        }
+      ],
+      "duration_ms": 204633,
+      "external_ids": {
+        "isrc": "USSM12006017"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1VpkwLKRFjxIw2elI7m1Oz"
+      },
+      "id": "1VpkwLKRFjxIw2elI7m1Oz",
+      "name": "Only Time Makes It Human"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "battery life"
+      },
+      "artists": [
+        {
+          "name": "Luna Shadows"
+        }
+      ],
+      "duration_ms": 234000,
+      "external_ids": {
+        "isrc": "USLGZ2000108"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7i9C0Fz89IABSEVwJTTJ4F"
+      },
+      "id": "7i9C0Fz89IABSEVwJTTJ4F",
+      "name": "battery life"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Let Me Love You Like A Woman"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey"
+        }
+      ],
+      "duration_ms": 200661,
+      "external_ids": {
+        "isrc": "GBUM72005484"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG"
+      },
+      "id": "4HvE2E9rXJDcQhE4YfeNuG",
+      "name": "Let Me Love You Like A Woman"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "False Art"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler"
+        },
+        {
+          "name": "Lizzy McAlpine"
+        }
+      ],
+      "duration_ms": 183454,
+      "external_ids": {
+        "isrc": "QZ93L2048412"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/77OXCuJjR83b2mnp0HmYMo"
+      },
+      "id": "77OXCuJjR83b2mnp0HmYMo",
+      "name": "False Art"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "SUPERBLOOM"
+      },
+      "artists": [
+        {
+          "name": "FLØRE"
+        }
+      ],
+      "duration_ms": 218772,
+      "external_ids": {
+        "isrc": "FRS182044525"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1O8LgRxgkJ8LUXyYohTcyZ"
+      },
+      "id": "1O8LgRxgkJ8LUXyYohTcyZ",
+      "name": "I’m okay, i’m just a little depressed"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Stayaway (Now, Now Remix)"
+      },
+      "artists": [
+        {
+          "name": "MUNA"
+        },
+        {
+          "name": "Now, Now"
+        }
+      ],
+      "duration_ms": 199000,
+      "external_ids": {
+        "isrc": "USRC12003411"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0ojEn2GpidI32hiVF5nblj"
+      },
+      "id": "0ojEn2GpidI32hiVF5nblj",
+      "name": "Stayaway - Now, Now Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Good Morning Stranger"
+      },
+      "artists": [
+        {
+          "name": "Foreign Air"
+        }
+      ],
+      "duration_ms": 224053,
+      "external_ids": {
+        "isrc": "QM6P42020691"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1YsPiKqxgsQjp1KR4Anhlp"
+      },
+      "id": "1YsPiKqxgsQjp1KR4Anhlp",
+      "name": "Monsters"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Believe"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North"
+        }
+      ],
+      "duration_ms": 252716,
+      "external_ids": {
+        "isrc": "QMCE32000463"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
+      },
+      "id": "5U8frcz1zLfKDX5sDTpsnV",
+      "name": "Believe"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Half Empty"
+      },
+      "artists": [
+        {
+          "name": "The Undercover Dream Lovers"
+        }
+      ],
+      "duration_ms": 208893,
+      "external_ids": {
+        "isrc": "QZMEM2025536"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7EpbGGZSj9wsXVHmQg7gyN"
+      },
+      "id": "7EpbGGZSj9wsXVHmQg7gyN",
+      "name": "Half Life"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "sucks to see you doing better (extended)"
+      },
+      "artists": [
+        {
+          "name": "Valley"
+        }
+      ],
+      "duration_ms": 191086,
+      "external_ids": {
+        "isrc": "CAUM72000199"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO"
+      },
+      "id": "4By9kkp1R1TSmAMckSM3KO",
+      "name": "homebody"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "true romance"
+      },
+      "artists": [
+        {
+          "name": "Abbie Ozard"
+        }
+      ],
+      "duration_ms": 190900,
+      "external_ids": {
+        "isrc": "GB8MX2000920"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/553QufJ8lxX0YG1W5Fj8dQ"
+      },
+      "id": "553QufJ8lxX0YG1W5Fj8dQ",
+      "name": "true romance"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Cold Shoulder"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas"
+        }
+      ],
+      "duration_ms": 175358,
+      "external_ids": {
+        "isrc": "CAN112000441"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lXB9BhHWe8E6OULBB5xew"
+      },
+      "id": "7lXB9BhHWe8E6OULBB5xew",
+      "name": "Cold Shoulder"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Reds"
+      },
+      "artists": [
+        {
+          "name": "Lav"
+        }
+      ],
+      "duration_ms": 178684,
+      "external_ids": {
+        "isrc": "USUS12000542"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7pMwXBiXREiDyZYZv895EQ"
+      },
+      "id": "7pMwXBiXREiDyZYZv895EQ",
+      "name": "Reds"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Can't Wait To Be Dead"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS"
+        }
+      ],
+      "duration_ms": 175969,
+      "external_ids": {
+        "isrc": "GBKPL2026076"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gqGNbqhZ0RLp3ypz51cHY"
+      },
+      "id": "0gqGNbqhZ0RLp3ypz51cHY",
+      "name": "Can't Wait To Be Dead"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "daydreams"
+      },
+      "artists": [
+        {
+          "name": "Easy Life"
+        }
+      ],
+      "duration_ms": 160000,
+      "external_ids": {
+        "isrc": "GBUM72004625"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28gOU6aiAGqn3INdkrbabZ"
+      },
+      "id": "28gOU6aiAGqn3INdkrbabZ",
+      "name": "daydreams"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Over It"
+      },
+      "artists": [
+        {
+          "name": "Bailey Baum"
+        }
+      ],
+      "duration_ms": 184280,
+      "external_ids": {
+        "isrc": "USUS12000570"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0gGD3kFDXo6jz8gvSxa9ya"
+      },
+      "id": "0gGD3kFDXo6jz8gvSxa9ya",
+      "name": "Over It"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Waiting"
+      },
+      "artists": [
+        {
+          "name": "Yb."
+        }
+      ],
+      "duration_ms": 159751,
+      "external_ids": {
+        "isrc": "AUMEV2023453"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7JfqyQ8JSRve0oXhbH1Y8m"
+      },
+      "id": "7JfqyQ8JSRve0oXhbH1Y8m",
+      "name": "Waiting"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Shadows"
+      },
+      "artists": [
+        {
+          "name": "Cannons"
+        }
+      ],
+      "duration_ms": 231825,
+      "external_ids": {
+        "isrc": "USSM12004811"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig"
+      },
+      "id": "4o0LyB69tylqDG6eTGhmig",
+      "name": "Fire for You"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Colorize"
+      },
+      "artists": [
+        {
+          "name": "Pyralid"
+        }
+      ],
+      "duration_ms": 162016,
+      "external_ids": {
+        "isrc": "NL2JD2000002"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2ee4PslHxyyzSWgAsEA4qK"
+      },
+      "id": "2ee4PslHxyyzSWgAsEA4qK",
+      "name": "Colorize"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Dribble (feat. RIZ LA VIE) [Remix]"
+      },
+      "artists": [
+        {
+          "name": "Sycco"
+        },
+        {
+          "name": "RIZ LA VIE"
+        }
+      ],
+      "duration_ms": 241885,
+      "external_ids": {
+        "isrc": "AUFF02000126"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6XIaGWpwKY7nzPJl7YIDA5"
+      },
+      "id": "6XIaGWpwKY7nzPJl7YIDA5",
+      "name": "Dribble (feat. RIZ LA VIE) - Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Thank U"
+      },
+      "artists": [
+        {
+          "name": "AURORA"
+        }
+      ],
+      "duration_ms": 242773,
+      "external_ids": {
+        "isrc": "GBUM72004664"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts"
+      },
+      "id": "1w5J5CBuvT36kt2OtHa8ts",
+      "name": "Thank U"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Red Line"
+      },
+      "artists": [
+        {
+          "name": "Ben Chandler"
+        }
+      ],
+      "duration_ms": 208400,
+      "external_ids": {
+        "isrc": "USAT22006447"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0DmOSVppmdwRGDOFHGW8E7"
+      },
+      "id": "0DmOSVppmdwRGDOFHGW8E7",
+      "name": "Red Line"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Producer Man"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid"
+        }
+      ],
+      "duration_ms": 141672,
+      "external_ids": {
+        "isrc": "USUM72019134"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU"
+      },
+      "id": "5BArc3UpONi77FMkNT4LYU",
+      "name": "Producer Man"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Sunsick"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast"
+        }
+      ],
+      "duration_ms": 145081,
+      "external_ids": {
+        "isrc": "USZ4V2000468"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5bRhKVGEj14xo6S5mHz7rh"
+      },
+      "id": "5bRhKVGEj14xo6S5mHz7rh",
+      "name": "Sunsick"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "What About Now - EP"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc"
+        }
+      ],
+      "duration_ms": 159118,
+      "external_ids": {
+        "isrc": "QZJ842000684"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BL33HmuFQien4olebugdj"
+      },
+      "id": "7BL33HmuFQien4olebugdj",
+      "name": "All My Friends Are Stoned"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "my self"
+      },
+      "artists": [
+        {
+          "name": "joey maxwell"
+        }
+      ],
+      "duration_ms": 229293,
+      "external_ids": {
+        "isrc": "GBUM72004814"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3Uz7KMfWOR2wAoUVYaZn1h"
+      },
+      "id": "3Uz7KMfWOR2wAoUVYaZn1h",
+      "name": "my self"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Red Reflections"
+      },
+      "artists": [
+        {
+          "name": "PWNT"
+        }
+      ],
+      "duration_ms": 217685,
+      "external_ids": {
+        "isrc": "FRIDO2011918"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2hbteqW3HYlKI2Cz5PP7AA"
+      },
+      "id": "2hbteqW3HYlKI2Cz5PP7AA",
+      "name": "Red Reflections"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Sunkissed (Remixes)"
+      },
+      "artists": [
+        {
+          "name": "khai dreams"
+        },
+        {
+          "name": "again&again"
+        }
+      ],
+      "duration_ms": 176109,
+      "external_ids": {
+        "isrc": "GBKPL2027448"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1tH1uMS4kF7vrMLqja2o9D"
+      },
+      "id": "1tH1uMS4kF7vrMLqja2o9D",
+      "name": "Sunkissed - again&again Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "UNBOUND (Austin Millz Remix)"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE"
+        },
+        {
+          "name": "Austin Millz"
+        }
+      ],
+      "duration_ms": 160159,
+      "external_ids": {
+        "isrc": "USAT22006619"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7aiIY5CiuTP7htW4grQuaO"
+      },
+      "id": "7aiIY5CiuTP7htW4grQuaO",
+      "name": "UNBOUND - Austin Millz Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Strawberry Candy"
+      },
+      "artists": [
+        {
+          "name": "Ben Chandler"
+        }
+      ],
+      "duration_ms": 159826,
+      "external_ids": {
+        "isrc": "USAT22006639"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5qbmSFA0lsPZ27cEbtpHdg"
+      },
+      "id": "5qbmSFA0lsPZ27cEbtpHdg",
+      "name": "Strawberry Candy"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Stock Child Wonder"
+      },
+      "artists": [
+        {
+          "name": "Knox Fortune"
+        }
+      ],
+      "duration_ms": 244138,
+      "external_ids": {
+        "isrc": "QZ93L2054014"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59pc8X6CM8HnzX55xV8xzd"
+      },
+      "id": "59pc8X6CM8HnzX55xV8xzd",
+      "name": "Static"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "All I Need"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg"
+        }
+      ],
+      "duration_ms": 216218,
+      "external_ids": {
+        "isrc": "GBARL2000312"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU"
+      },
+      "id": "3aMyQSDW0DJ7LTOkrd29hU",
+      "name": "All I Need"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Irrational"
+      },
+      "artists": [
+        {
+          "name": "Erthlings"
+        }
+      ],
+      "duration_ms": 203992,
+      "external_ids": {
+        "isrc": "AUFF02000111"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0HAsOUxDiYHKaQSoKKEN5z"
+      },
+      "id": "0HAsOUxDiYHKaQSoKKEN5z",
+      "name": "Irrational"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Interstellar Love (feat. Leon Bridges)"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches"
+        },
+        {
+          "name": "Leon Bridges"
+        }
+      ],
+      "duration_ms": 218506,
+      "external_ids": {
+        "isrc": "AUUM72000708"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"
+      },
+      "id": "59lpmLRHEkHxufzKdOFRRA",
+      "name": "Interstellar Love (feat. Leon Bridges)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Hour 24"
+      },
+      "artists": [
+        {
+          "name": "min.a"
+        }
+      ],
+      "duration_ms": 182703,
+      "external_ids": {
+        "isrc": "QMBZ92049025"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1KjAqIGaGNzKeN3WRzRBB6"
+      },
+      "id": "1KjAqIGaGNzKeN3WRzRBB6",
+      "name": "Hour 24"
+    }
+  }
+]

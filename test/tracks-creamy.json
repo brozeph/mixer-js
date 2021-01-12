@@ -1,0 +1,2282 @@
+[
+  {
+    "track": {
+      "album": {
+        "name": "Today"
+      },
+      "artists": [
+        {
+          "name": "N3WPORT"
+        },
+        {
+          "name": "Andrew Fuller"
+        }
+      ],
+      "duration_ms": 195375,
+      "external_ids": {
+        "isrc": "QZHCR2000173"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4GY5uG8f75mVDUnmxUQc9Q"
+      },
+      "id": "4GY5uG8f75mVDUnmxUQc9Q",
+      "name": "Today"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Safe"
+      },
+      "artists": [
+        {
+          "name": "camoufly"
+        }
+      ],
+      "duration_ms": 163669,
+      "external_ids": {
+        "isrc": "QZ93L2060877"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
+      },
+      "id": "26WKIQfoKE1FryKWAWm7MY",
+      "name": "Safe"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Try (feat. RØRY)"
+      },
+      "artists": [
+        {
+          "name": "MitiS"
+        },
+        {
+          "name": "RØRY"
+        }
+      ],
+      "duration_ms": 252727,
+      "external_ids": {
+        "isrc": "GBEWA2100060"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5jZxNBHyU7qpAQSCXuQq78"
+      },
+      "id": "5jZxNBHyU7qpAQSCXuQq78",
+      "name": "Try (feat. RØRY)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Recursion"
+      },
+      "artists": [
+        {
+          "name": "Rootkit"
+        },
+        {
+          "name": "Gloria Kim"
+        }
+      ],
+      "duration_ms": 186885,
+      "external_ids": {
+        "isrc": "NLRD51632588"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6O2eMeVNJnbmHC721q9EFV"
+      },
+      "id": "6O2eMeVNJnbmHC721q9EFV",
+      "name": "Be With You (ft. Gloria Kim)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Open Blinds"
+      },
+      "artists": [
+        {
+          "name": "DROELOE"
+        }
+      ],
+      "duration_ms": 255579,
+      "external_ids": {
+        "isrc": "NLRD51632524"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0"
+      },
+      "id": "0cR04cbujsPTTyKUazySY0",
+      "name": "Open Blinds"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "You"
+      },
+      "artists": [
+        {
+          "name": "Third Vibes"
+        }
+      ],
+      "duration_ms": 136551,
+      "external_ids": {
+        "isrc": "NLAM42000276"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R"
+      },
+      "id": "48pPiD01arCZeI8Pehoh3R",
+      "name": "You"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Oasis"
+      },
+      "artists": [
+        {
+          "name": "Attom"
+        }
+      ],
+      "duration_ms": 202247,
+      "external_ids": {
+        "isrc": "QZNWT2081176"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+      },
+      "id": "3jlFMDKI3hjKvqzXry1Yq1",
+      "name": "Oasis"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "bb u ok?"
+      },
+      "artists": [
+        {
+          "name": "San Holo"
+        }
+      ],
+      "duration_ms": 201611,
+      "external_ids": {
+        "isrc": "GBCFB2000260"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr"
+      },
+      "id": "4P3bvWt7qRMqiFuNDDJiZr",
+      "name": "bb u ok?"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "nature"
+      },
+      "artists": [
+        {
+          "name": "Fairlane"
+        },
+        {
+          "name": "sad alex"
+        }
+      ],
+      "duration_ms": 201290,
+      "external_ids": {
+        "isrc": "USA2P2042201"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq"
+      },
+      "id": "1a8BgdhsbE1a4tZfmKB6Qq",
+      "name": "nature"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "MOON WALK"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut"
+        }
+      ],
+      "duration_ms": 156553,
+      "external_ids": {
+        "isrc": "CA5KR2118692"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4"
+      },
+      "id": "5EqoRfSw5zj4bQqJdqNff4",
+      "name": "MOON WALK"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "I Believe"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion"
+        },
+        {
+          "name": "Asha"
+        }
+      ],
+      "duration_ms": 258299,
+      "external_ids": {
+        "isrc": "GBUM92000121"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6zke4l646FheM5JlIdu4T8"
+      },
+      "id": "6zke4l646FheM5JlIdu4T8",
+      "name": "I Believe"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "it's the end of the world, but it's ok"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic"
+        },
+        {
+          "name": "Mariya Stoeva"
+        }
+      ],
+      "duration_ms": 179428,
+      "external_ids": {
+        "isrc": "QZ8QY1800193"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/062TR63pH6hFer4xsx0935"
+      },
+      "id": "062TR63pH6hFer4xsx0935",
+      "name": "☆"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Everybody You Hurt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Kates"
+        }
+      ],
+      "duration_ms": 184545,
+      "external_ids": {
+        "isrc": "CACWV2025800"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
+      },
+      "id": "2J4oKpZ5tgsx5ciq7g2waw",
+      "name": "Everybody You Hurt"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Wake Up Call"
+      },
+      "artists": [
+        {
+          "name": "Mindsight"
+        }
+      ],
+      "duration_ms": 220748,
+      "external_ids": {
+        "isrc": "QZMEQ2035423"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3BRFlldhdNcUznlZVs6YOY"
+      },
+      "id": "3BRFlldhdNcUznlZVs6YOY",
+      "name": "Wake Up Call"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Love Is Gone"
+      },
+      "artists": [
+        {
+          "name": "SLANDER"
+        },
+        {
+          "name": "Dylan Matthew"
+        }
+      ],
+      "duration_ms": 256042,
+      "external_ids": {
+        "isrc": "CA5KR1928205"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/39glqzRVRAy4vq3PqeTGb8"
+      },
+      "id": "39glqzRVRAy4vq3PqeTGb8",
+      "name": "Love Is Gone"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Back To U (Fairlane Remix)"
+      },
+      "artists": [
+        {
+          "name": "SLANDER"
+        },
+        {
+          "name": "William Black"
+        },
+        {
+          "name": "Fairlane"
+        }
+      ],
+      "duration_ms": 208000,
+      "external_ids": {
+        "isrc": "CA5KR2113994"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ein09aBamuYxrJyiTWOaT"
+      },
+      "id": "7ein09aBamuYxrJyiTWOaT",
+      "name": "Back To U - Fairlane Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "it's the end of the world, but it's ok"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic"
+        },
+        {
+          "name": "Manila Killa"
+        }
+      ],
+      "duration_ms": 193616,
+      "external_ids": {
+        "isrc": "QZ8QY1800179"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3JsDhqQSCVK5IRyQtkuxy1"
+      },
+      "id": "3JsDhqQSCVK5IRyQtkuxy1",
+      "name": "Closer 2 U"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Eœ (Disk•Initiate)"
+      },
+      "artists": [
+        {
+          "name": "Iglooghost"
+        }
+      ],
+      "duration_ms": 181696,
+      "external_ids": {
+        "isrc": "UKQNV2000233"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7C3vZyZBMcSvUqJsk2p1Xn"
+      },
+      "id": "7C3vZyZBMcSvUqJsk2p1Xn",
+      "name": "Eœ (Disk•Initiate)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Gema"
+      },
+      "artists": [
+        {
+          "name": "MIEL"
+        }
+      ],
+      "duration_ms": 222943,
+      "external_ids": {
+        "isrc": "ushm22098019"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1mCbnMGbEqTOYk47QDYv1Q"
+      },
+      "id": "1mCbnMGbEqTOYk47QDYv1Q",
+      "name": "Gema"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "let it go"
+      },
+      "artists": [
+        {
+          "name": "Somnium Sound"
+        }
+      ],
+      "duration_ms": 185600,
+      "external_ids": {
+        "isrc": "CA5KR2105840"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1czCYuXfV3XtRTgxnVqyHY"
+      },
+      "id": "1czCYuXfV3XtRTgxnVqyHY",
+      "name": "let it go"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Drink the Sea (10 Year Anniversary Deluxe Edition)"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob"
+        },
+        {
+          "name": "Krazy Baldhead"
+        }
+      ],
+      "duration_ms": 536936,
+      "external_ids": {
+        "isrc": "QMBZ92059018"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zrtnhWaKIOYcj0UCTFSez"
+      },
+      "id": "7zrtnhWaKIOYcj0UCTFSez",
+      "name": "The 4th Movement - The Glitch Mob Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Indian Summer"
+      },
+      "artists": [
+        {
+          "name": "EDX"
+        }
+      ],
+      "duration_ms": 200454,
+      "external_ids": {
+        "isrc": "CH3132000789"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3YZJIHIX3kPd5wLwKLWIZA"
+      },
+      "id": "3YZJIHIX3kPd5wLwKLWIZA",
+      "name": "Indian Summer"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Healer"
+      },
+      "artists": [
+        {
+          "name": "Marsh"
+        }
+      ],
+      "duration_ms": 253202,
+      "external_ids": {
+        "isrc": "GBEWA1908584"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5MezeOXeAvhFVHln9SsgEo"
+      },
+      "id": "5MezeOXeAvhFVHln9SsgEo",
+      "name": "Healer"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Neon Jungle"
+      },
+      "artists": [
+        {
+          "name": "CloZee"
+        },
+        {
+          "name": "Sauvane"
+        }
+      ],
+      "duration_ms": 265920,
+      "external_ids": {
+        "isrc": "USA2P2018944"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0c5yAOvdgqCG1LJkOtToQT"
+      },
+      "id": "0c5yAOvdgqCG1LJkOtToQT",
+      "name": "Air"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Apeldoorn Jamming / Atmosphere"
+      },
+      "artists": [
+        {
+          "name": "Fred V"
+        },
+        {
+          "name": "Lottie Jones"
+        }
+      ],
+      "duration_ms": 224795,
+      "external_ids": {
+        "isrc": "GBCJY2000528"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3TtEksZOxtg6zMqBv89NeP"
+      },
+      "id": "3TtEksZOxtg6zMqBv89NeP",
+      "name": "Atmosphere"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "I See You"
+      },
+      "artists": [
+        {
+          "name": "PLÜM"
+        }
+      ],
+      "duration_ms": 165161,
+      "external_ids": {
+        "isrc": "FR9W12027683"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6eOc4UyJok1C0t3mur8GYD"
+      },
+      "id": "6eOc4UyJok1C0t3mur8GYD",
+      "name": "I See You"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Get Closer"
+      },
+      "artists": [
+        {
+          "name": "Sem"
+        },
+        {
+          "name": "Silent Child"
+        }
+      ],
+      "duration_ms": 188800,
+      "external_ids": {
+        "isrc": "DEWO71700184"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/24NIpLql6QM8gA1fDbNvUT"
+      },
+      "id": "24NIpLql6QM8gA1fDbNvUT",
+      "name": "Get Closer"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "i'm busy"
+      },
+      "artists": [
+        {
+          "name": "bloody white"
+        }
+      ],
+      "duration_ms": 168000,
+      "external_ids": {
+        "isrc": "QZ93L2051335"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5WMym0tnIA4jkBvyl5KmXr"
+      },
+      "id": "5WMym0tnIA4jkBvyl5KmXr",
+      "name": "i'm busy"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "You Should Run"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet"
+        },
+        {
+          "name": "Pauline Herr"
+        }
+      ],
+      "duration_ms": 299255,
+      "external_ids": {
+        "isrc": "CA5KR2087736"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5IH5AcpMQCGSv7vtAL5c6X"
+      },
+      "id": "5IH5AcpMQCGSv7vtAL5c6X",
+      "name": "You Should Run"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Fragile (feat. Melanie Fontana)"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR"
+        },
+        {
+          "name": "Melanie Fontana"
+        }
+      ],
+      "duration_ms": 233913,
+      "external_ids": {
+        "isrc": "USDM32028902"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UqkLxHHcQixRPYesIkHXu"
+      },
+      "id": "1UqkLxHHcQixRPYesIkHXu",
+      "name": "Fragile (feat. Melanie Fontana)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Monologue"
+      },
+      "artists": [
+        {
+          "name": "Tobu"
+        }
+      ],
+      "duration_ms": 158739,
+      "external_ids": {
+        "isrc": "QZNWQ2049093"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7DPdGTjKlnV3Q3IfFNYYRn"
+      },
+      "id": "7DPdGTjKlnV3Q3IfFNYYRn",
+      "name": "Monologue"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "GOOD THINGS ARE COMING"
+      },
+      "artists": [
+        {
+          "name": "Vincent"
+        },
+        {
+          "name": "HOFFEY"
+        }
+      ],
+      "duration_ms": 140527,
+      "external_ids": {
+        "isrc": "CAM371902966"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7lWdJvcAJa5BMV5kpY1oAy"
+      },
+      "id": "7lWdJvcAJa5BMV5kpY1oAy",
+      "name": "GOOD THINGS ARE COMING"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Hurts Sometimes (with Jonathan Mendelsohn)"
+      },
+      "artists": [
+        {
+          "name": "SLANDER"
+        },
+        {
+          "name": "Fairlane"
+        },
+        {
+          "name": "Jonathan Mendelsohn"
+        }
+      ],
+      "duration_ms": 225882,
+      "external_ids": {
+        "isrc": "CA5KR2102149"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wwSQbfTJUqNqDch31XUpW"
+      },
+      "id": "2wwSQbfTJUqNqDch31XUpW",
+      "name": "Hurts Sometimes (with Jonathan Mendelsohn)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Forever Flame"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver"
+        },
+        {
+          "name": "Beach Season"
+        }
+      ],
+      "duration_ms": 206285,
+      "external_ids": {
+        "isrc": "CA6D22000170"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/28ipV6hkWWpUk4DZ5dU7lX"
+      },
+      "id": "28ipV6hkWWpUk4DZ5dU7lX",
+      "name": "Skin"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Happy Where We Are"
+      },
+      "artists": [
+        {
+          "name": "Tritonal"
+        },
+        {
+          "name": "Dylan Matthew"
+        },
+        {
+          "name": "Au5"
+        }
+      ],
+      "duration_ms": 320000,
+      "external_ids": {
+        "isrc": "GBLV62007908"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1pq2CUdMBkl5MX7aDm5Twj"
+      },
+      "id": "1pq2CUdMBkl5MX7aDm5Twj",
+      "name": "Happy Where We Are"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Out Here With You"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS"
+        }
+      ],
+      "duration_ms": 391218,
+      "external_ids": {
+        "isrc": "GBTDG1302126"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2wvzaSq1yvCA4zsBNPcROH"
+      },
+      "id": "2wvzaSq1yvCA4zsBNPcROH",
+      "name": "Polar Concept"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Think About Us"
+      },
+      "artists": [
+        {
+          "name": "M-22"
+        },
+        {
+          "name": "Lorne"
+        }
+      ],
+      "duration_ms": 202304,
+      "external_ids": {
+        "isrc": "GBUM72005071"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2HeL8TqSKIWdZLtCL90ykM"
+      },
+      "id": "2HeL8TqSKIWdZLtCL90ykM",
+      "name": "Think About Us"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Believe"
+      },
+      "artists": [
+        {
+          "name": "Ahrix"
+        }
+      ],
+      "duration_ms": 230462,
+      "external_ids": {
+        "isrc": "GBSMU8924023"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6CabeCXwK6Ed5EU3Y36eWZ"
+      },
+      "id": "6CabeCXwK6Ed5EU3Y36eWZ",
+      "name": "Believe"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "AROSE"
+      },
+      "artists": [
+        {
+          "name": "Lyke"
+        }
+      ],
+      "duration_ms": 242992,
+      "external_ids": {
+        "isrc": "NLF712011497"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1TlFcqw1hBb3VOx5VFTiuV"
+      },
+      "id": "1TlFcqw1hBb3VOx5VFTiuV",
+      "name": "AROSE"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Don't Think So Hard"
+      },
+      "artists": [
+        {
+          "name": "On Planets"
+        }
+      ],
+      "duration_ms": 216337,
+      "external_ids": {
+        "isrc": "NLRD51632570"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3hWnEM3FbJHGvOBo3aRcKM"
+      },
+      "id": "3hWnEM3FbJHGvOBo3aRcKM",
+      "name": "Don't Think So Hard"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "cløud"
+      },
+      "artists": [
+        {
+          "name": "La+ch"
+        }
+      ],
+      "duration_ms": 208217,
+      "external_ids": {
+        "isrc": "CAB392002864"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3zWmdLGRHHjQlmFMQXuMRL"
+      },
+      "id": "3zWmdLGRHHjQlmFMQXuMRL",
+      "name": "cløud"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Carry On"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic"
+        },
+        {
+          "name": "Paperwhite"
+        }
+      ],
+      "duration_ms": 195281,
+      "external_ids": {
+        "isrc": "QZ8QY1800184"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7nrJ7mhXxnriHW8eYEJkCk"
+      },
+      "id": "7nrJ7mhXxnriHW8eYEJkCk",
+      "name": "Carry On"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Moonlight"
+      },
+      "artists": [
+        {
+          "name": "Phantoms"
+        },
+        {
+          "name": "Sarah Close"
+        }
+      ],
+      "duration_ms": 224722,
+      "external_ids": {
+        "isrc": "USUM72019824"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/63lOP9C3UVMbKub3v3ZgaO"
+      },
+      "id": "63lOP9C3UVMbKub3v3ZgaO",
+      "name": "Moonlight"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Closer Than You"
+      },
+      "artists": [
+        {
+          "name": "William Black"
+        },
+        {
+          "name": "Amidy"
+        }
+      ],
+      "duration_ms": 219200,
+      "external_ids": {
+        "isrc": "GBKPL2026373"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4TP11rqVfILREbUK5Q2Dmb"
+      },
+      "id": "4TP11rqVfILREbUK5Q2Dmb",
+      "name": "Closer Than You"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Roadside Flowers"
+      },
+      "artists": [
+        {
+          "name": "DROELOE"
+        },
+        {
+          "name": "Iris Penning"
+        }
+      ],
+      "duration_ms": 229714,
+      "external_ids": {
+        "isrc": "NLRD51632554"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3jVIeiULOktjgnCdEOViXz"
+      },
+      "id": "3jVIeiULOktjgnCdEOViXz",
+      "name": "Roadside Flowers"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Context"
+      },
+      "artists": [
+        {
+          "name": "On Planets"
+        }
+      ],
+      "duration_ms": 240000,
+      "external_ids": {
+        "isrc": "GBKPL2026149"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5BjXiQdBBy10FQemhcRqIS"
+      },
+      "id": "5BjXiQdBBy10FQemhcRqIS",
+      "name": "Context"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Unspoken"
+      },
+      "artists": [
+        {
+          "name": "Daktyl"
+        },
+        {
+          "name": "MOONZz"
+        }
+      ],
+      "duration_ms": 204081,
+      "external_ids": {
+        "isrc": "CA6D22000361"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6WcSm79HcRk5Twgv7G4wFM"
+      },
+      "id": "6WcSm79HcRk5Twgv7G4wFM",
+      "name": "Unspoken"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Only One (feat. B. Lewis)"
+      },
+      "artists": [
+        {
+          "name": "KRANE"
+        },
+        {
+          "name": "B. Lewis"
+        }
+      ],
+      "duration_ms": 194666,
+      "external_ids": {
+        "isrc": "USDM32028702"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0wcovL8lALbqpx2eCa9IO1"
+      },
+      "id": "0wcovL8lALbqpx2eCa9IO1",
+      "name": "Only One (feat. B. Lewis)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Fun Like That"
+      },
+      "artists": [
+        {
+          "name": "Walkabout"
+        }
+      ],
+      "duration_ms": 138947,
+      "external_ids": {
+        "isrc": "QM24S2009784"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2BpX4A1ZbU7ylTVNLLVVIh"
+      },
+      "id": "2BpX4A1ZbU7ylTVNLLVVIh",
+      "name": "Fun Like That"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Dummo Loop"
+      },
+      "artists": [
+        {
+          "name": "WAVEDASH"
+        }
+      ],
+      "duration_ms": 217904,
+      "external_ids": {
+        "isrc": "CA5KR2094007"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6xpemzIGan5uOg7KGR0wfp"
+      },
+      "id": "6xpemzIGan5uOg7KGR0wfp",
+      "name": "Dummo Loop"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Lilac"
+      },
+      "artists": [
+        {
+          "name": "Heuse"
+        }
+      ],
+      "duration_ms": 139486,
+      "external_ids": {
+        "isrc": "QZMHM2038848"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5dv1Yf3HwWuV6JuLNfOjmj"
+      },
+      "id": "5dv1Yf3HwWuV6JuLNfOjmj",
+      "name": "Lilac"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Minute"
+      },
+      "artists": [
+        {
+          "name": "V. Christie"
+        }
+      ],
+      "duration_ms": 172535,
+      "external_ids": {
+        "isrc": "QZMEM2002673"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7oFUalDSW80cvDjsekma4Q"
+      },
+      "id": "7oFUalDSW80cvDjsekma4Q",
+      "name": "Minute"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Crying For Love"
+      },
+      "artists": [
+        {
+          "name": "Sonic Journey"
+        }
+      ],
+      "duration_ms": 209986,
+      "external_ids": {
+        "isrc": "GBSMU8606831"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2cFbDTppIxkKRfDltzKGnx"
+      },
+      "id": "2cFbDTppIxkKRfDltzKGnx",
+      "name": "Crying For Love"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Strider"
+      },
+      "artists": [
+        {
+          "name": "MEMBA"
+        }
+      ],
+      "duration_ms": 218997,
+      "external_ids": {
+        "isrc": "USA2P1950717"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7nda0GK3uUnKgngFzNuYhx"
+      },
+      "id": "7nda0GK3uUnKgngFzNuYhx",
+      "name": "Strider"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Splinter (with salem ilese)"
+      },
+      "artists": [
+        {
+          "name": "MYRNE"
+        },
+        {
+          "name": "salem ilese"
+        }
+      ],
+      "duration_ms": 223511,
+      "external_ids": {
+        "isrc": "USUS12000487"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7ED8YfAot9P3QKiH5owgA7"
+      },
+      "id": "7ED8YfAot9P3QKiH5owgA7",
+      "name": "Splinter (with salem ilese)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Start Again"
+      },
+      "artists": [
+        {
+          "name": "SMLE"
+        },
+        {
+          "name": "Bonnie Dymond"
+        }
+      ],
+      "duration_ms": 172500,
+      "external_ids": {
+        "isrc": "QM24S2009181"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5dH8eaBniZIksVQfJqniu0"
+      },
+      "id": "5dH8eaBniZIksVQfJqniu0",
+      "name": "Start Again"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Level Days"
+      },
+      "artists": [
+        {
+          "name": "Conro"
+        }
+      ],
+      "duration_ms": 226560,
+      "external_ids": {
+        "isrc": "CA6D22000019"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1eYxa4UQo3ElMrX5n5J3CF"
+      },
+      "id": "1eYxa4UQo3ElMrX5n5J3CF",
+      "name": "Fighters"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Silence"
+      },
+      "artists": [
+        {
+          "name": "Kidnap"
+        }
+      ],
+      "duration_ms": 245881,
+      "external_ids": {
+        "isrc": "GBEWA1909040"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
+      },
+      "id": "5J54xW5p85niQOxeq7GiD5",
+      "name": "Silence"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "未来茶屋 (vol.1)"
+      },
+      "artists": [
+        {
+          "name": "PSYQUI"
+        },
+        {
+          "name": "Mo∀"
+        }
+      ],
+      "duration_ms": 224488,
+      "external_ids": {
+        "isrc": "JPR841900065"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/59jZnaLz0GEyriFuGbQ8Co"
+      },
+      "id": "59jZnaLz0GEyriFuGbQ8Co",
+      "name": "Rainbow Dream"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "You And Me Now"
+      },
+      "artists": [
+        {
+          "name": "Devault"
+        },
+        {
+          "name": "Manila Killa"
+        },
+        {
+          "name": "Griff Clawson"
+        }
+      ],
+      "duration_ms": 265870,
+      "external_ids": {
+        "isrc": "QM24S2005344"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0uXrL7icmCdEG5rFdjTru2"
+      },
+      "id": "0uXrL7icmCdEG5rFdjTru2",
+      "name": "You And Me Now"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Flair"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet"
+        },
+        {
+          "name": "Momma Kismet"
+        }
+      ],
+      "duration_ms": 203445,
+      "external_ids": {
+        "isrc": "GB7YL2000073"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/603bfdyalNWhlDuMLdINW9"
+      },
+      "id": "603bfdyalNWhlDuMLdINW9",
+      "name": "Flair"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "TIME + ENERGY"
+      },
+      "artists": [
+        {
+          "name": "pluko"
+        }
+      ],
+      "duration_ms": 178407,
+      "external_ids": {
+        "isrc": "QM24S2009179"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/25w0UAB6bOKU7M3EXwWgZh"
+      },
+      "id": "25w0UAB6bOKU7M3EXwWgZh",
+      "name": "TIME + ENERGY"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "BRONSON"
+      },
+      "artists": [
+        {
+          "name": "BRONSON"
+        },
+        {
+          "name": "ODESZA"
+        },
+        {
+          "name": "Golden Features"
+        }
+      ],
+      "duration_ms": 179453,
+      "external_ids": {
+        "isrc": "GBCFB2000194"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4WIAD59mZw4c4j36fjTvFo"
+      },
+      "id": "4WIAD59mZw4c4j36fjTvFo",
+      "name": "CALL OUT"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Intrastellar EP"
+      },
+      "artists": [
+        {
+          "name": "thomfjord"
+        }
+      ],
+      "duration_ms": 321535,
+      "external_ids": {
+        "isrc": "GBKQU2033656"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2xvnpwPX8JTysO083rju7y"
+      },
+      "id": "2xvnpwPX8JTysO083rju7y",
+      "name": "Intrastellar"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Bummed (Manila Killa Remix)"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter"
+        },
+        {
+          "name": "Alison Wonderland"
+        },
+        {
+          "name": "Manila Killa"
+        }
+      ],
+      "duration_ms": 267180,
+      "external_ids": {
+        "isrc": "USUS12000313"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1x8B2S0b0v1F8A9hYf1Qou"
+      },
+      "id": "1x8B2S0b0v1F8A9hYf1Qou",
+      "name": "Bummed - Manila Killa Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "With You"
+      },
+      "artists": [
+        {
+          "name": "Kislaw"
+        }
+      ],
+      "duration_ms": 150810,
+      "external_ids": {
+        "isrc": "FRIDO2011133"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6ndFWbDp7AXBBTRCLNrbdn"
+      },
+      "id": "6ndFWbDp7AXBBTRCLNrbdn",
+      "name": "With You"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Something to Say"
+      },
+      "artists": [
+        {
+          "name": "HOLOW"
+        }
+      ],
+      "duration_ms": 216406,
+      "external_ids": {
+        "isrc": "FRPES2000470"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/62M5gj2bau54bPysumOjXp"
+      },
+      "id": "62M5gj2bau54bPysumOjXp",
+      "name": "Something to Say"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Issa Bounce"
+      },
+      "artists": [
+        {
+          "name": "UpsideDown"
+        }
+      ],
+      "duration_ms": 117600,
+      "external_ids": {
+        "isrc": "usl4q2046132"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS"
+      },
+      "id": "7zeL5uEA13GJ6VN732HYyS",
+      "name": "Issa Bounce"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "feelings (w/ Marlhy)"
+      },
+      "artists": [
+        {
+          "name": "pluko"
+        },
+        {
+          "name": "Marlhy"
+        }
+      ],
+      "duration_ms": 141176,
+      "external_ids": {
+        "isrc": "QM24S2008683"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Xwm5mS1htcxJyUdMzgcZc"
+      },
+      "id": "6Xwm5mS1htcxJyUdMzgcZc",
+      "name": "feelings (w/ Marlhy)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Broken"
+      },
+      "artists": [
+        {
+          "name": "PURGE"
+        },
+        {
+          "name": "Silent Child"
+        }
+      ],
+      "duration_ms": 192000,
+      "external_ids": {
+        "isrc": "CA5KR2080185"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0dH5Rd4OCfZjb48hhaWVGg"
+      },
+      "id": "0dH5Rd4OCfZjb48hhaWVGg",
+      "name": "Broken"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Reminisce"
+      },
+      "artists": [
+        {
+          "name": "DVRKCLOUD"
+        }
+      ],
+      "duration_ms": 284000,
+      "external_ids": {
+        "isrc": "QZK6G2050099"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1UwiUU0K41eaLwzO2svcvn"
+      },
+      "id": "1UwiUU0K41eaLwzO2svcvn",
+      "name": "Reminisce"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Neon Jungle Remixes"
+      },
+      "artists": [
+        {
+          "name": "CloZee"
+        },
+        {
+          "name": "Lane 8"
+        }
+      ],
+      "duration_ms": 249919,
+      "external_ids": {
+        "isrc": "USA2P2033775"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
+      },
+      "id": "4G3qY8rJC9C4BjKpzwsZN3",
+      "name": "Neon Jungle - Lane 8 Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Sister"
+      },
+      "artists": [
+        {
+          "name": "TSHA"
+        }
+      ],
+      "duration_ms": 268829,
+      "external_ids": {
+        "isrc": "GBCFB2000383"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
+      },
+      "id": "2StEq5J2bCq5JiwCKbansz",
+      "name": "Sister"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Black Weirdo"
+      },
+      "artists": [
+        {
+          "name": "Kilamanzego"
+        }
+      ],
+      "duration_ms": 137704,
+      "external_ids": {
+        "isrc": "QZHN52095418"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1EYUDPtXSsrXfKPnMjkgHr"
+      },
+      "id": "1EYUDPtXSsrXfKPnMjkgHr",
+      "name": "Black Weirdo"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Choose Me"
+      },
+      "artists": [
+        {
+          "name": "UNIKID"
+        },
+        {
+          "name": "Deisy"
+        }
+      ],
+      "duration_ms": 142196,
+      "external_ids": {
+        "isrc": "NL2VN2000039"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4p1cgMBFhfggvQ9tW0r5Zw"
+      },
+      "id": "4p1cgMBFhfggvQ9tW0r5Zw",
+      "name": "Choose Me"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Good Faith"
+      },
+      "artists": [
+        {
+          "name": "Madeon"
+        }
+      ],
+      "duration_ms": 250440,
+      "external_ids": {
+        "isrc": "USQX91901218"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32"
+      },
+      "id": "7JSS036IjVSwD64TAr6n32",
+      "name": "Miracle"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "The Key"
+      },
+      "artists": [
+        {
+          "name": "SlYder"
+        },
+        {
+          "name": "Ben Chaverin"
+        }
+      ],
+      "duration_ms": 192350,
+      "external_ids": {
+        "isrc": "QZ5FN2066359"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1T5rs3yk7ZLtoxYomFZX5H"
+      },
+      "id": "1T5rs3yk7ZLtoxYomFZX5H",
+      "name": "The Key"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Life Sux"
+      },
+      "artists": [
+        {
+          "name": "Silent Child"
+        }
+      ],
+      "duration_ms": 201176,
+      "external_ids": {
+        "isrc": "DEWO71700159"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3bkjytkq99VLjtbxUp8twy"
+      },
+      "id": "3bkjytkq99VLjtbxUp8twy",
+      "name": "Life Sux"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Irene"
+      },
+      "artists": [
+        {
+          "name": "Medasin"
+        },
+        {
+          "name": "Kaz Moon"
+        }
+      ],
+      "duration_ms": 182320,
+      "external_ids": {
+        "isrc": "USUG11801641"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1hovkSJMIpP5hfuyb756G4"
+      },
+      "id": "1hovkSJMIpP5hfuyb756G4",
+      "name": "Work For You (feat. Kaz Moon)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "What About Me?"
+      },
+      "artists": [
+        {
+          "name": "HOMALS"
+        },
+        {
+          "name": "Tim Moyo"
+        }
+      ],
+      "duration_ms": 213333,
+      "external_ids": {
+        "isrc": "FRD9J2000060"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kFGfIujyDIFGzJOGMqIrA"
+      },
+      "id": "7kFGfIujyDIFGzJOGMqIrA",
+      "name": "What About Me?"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Better Off Lonely"
+      },
+      "artists": [
+        {
+          "name": "Nurko"
+        },
+        {
+          "name": "RØRY"
+        }
+      ],
+      "duration_ms": 270000,
+      "external_ids": {
+        "isrc": "USA2P2028676"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2QeTXxduUbXpSWY3WCVK2v"
+      },
+      "id": "2QeTXxduUbXpSWY3WCVK2v",
+      "name": "Better Off Lonely"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Hollow"
+      },
+      "artists": [
+        {
+          "name": "Farrah"
+        },
+        {
+          "name": "So Sus"
+        }
+      ],
+      "duration_ms": 180000,
+      "external_ids": {
+        "isrc": "QZ5FN2001082"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6034K3E2tySzsHMMqZZbA0"
+      },
+      "id": "6034K3E2tySzsHMMqZZbA0",
+      "name": "Hollow"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Be Your Light"
+      },
+      "artists": [
+        {
+          "name": "SlYder"
+        },
+        {
+          "name": "Garry Ocean"
+        }
+      ],
+      "duration_ms": 188357,
+      "external_ids": {
+        "isrc": "QZ5FN2096064"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7GQ1UVk9Gnpc7pKjTcCAUs"
+      },
+      "id": "7GQ1UVk9Gnpc7pKjTcCAUs",
+      "name": "Be Your Light"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Hostage"
+      },
+      "artists": [
+        {
+          "name": "Besomorph"
+        },
+        {
+          "name": "RIELL"
+        }
+      ],
+      "duration_ms": 136124,
+      "external_ids": {
+        "isrc": "QZK6L2041315"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/58qSm6P5MaLDiqUoSqCMr3"
+      },
+      "id": "58qSm6P5MaLDiqUoSqCMr3",
+      "name": "Hostage"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Synergy"
+      },
+      "artists": [
+        {
+          "name": "Juche"
+        }
+      ],
+      "duration_ms": 201752,
+      "external_ids": {
+        "isrc": "US3DF2089525"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/02JmQFPvI7I0V227uCFsBW"
+      },
+      "id": "02JmQFPvI7I0V227uCFsBW",
+      "name": "Synergy"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "No Time (RÜFÜS DU SOL Remix)"
+      },
+      "artists": [
+        {
+          "name": "Lastlings"
+        },
+        {
+          "name": "RÜFÜS DU SOL"
+        }
+      ],
+      "duration_ms": 398969,
+      "external_ids": {
+        "isrc": "USUG12002678"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
+      },
+      "id": "7qRqmkHtKgk9B8FTGp9YjL",
+      "name": "No Time - RÜFÜS DU SOL Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "The Tension"
+      },
+      "artists": [
+        {
+          "name": "Hotel Garuda"
+        }
+      ],
+      "duration_ms": 197136,
+      "external_ids": {
+        "isrc": "USQE92000122"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/48PQHAfJ6Uggdt807RqVZ5"
+      },
+      "id": "48PQHAfJ6Uggdt807RqVZ5",
+      "name": "Leave You"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Right Now"
+      },
+      "artists": [
+        {
+          "name": "Maazel"
+        },
+        {
+          "name": "glasscat"
+        }
+      ],
+      "duration_ms": 194181,
+      "external_ids": {
+        "isrc": "CA6D22000283"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1h91DNP67Ht4aMHq8qqYJy"
+      },
+      "id": "1h91DNP67Ht4aMHq8qqYJy",
+      "name": "Right Now"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Coming Home (feat. Linney)"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR"
+        },
+        {
+          "name": "Linney"
+        }
+      ],
+      "duration_ms": 206068,
+      "external_ids": {
+        "isrc": "USDM32028402"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1Cid4mf4qtmDUdOMaDHj9l"
+      },
+      "id": "1Cid4mf4qtmDUdOMaDHj9l",
+      "name": "Coming Home (feat. Linney)"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Butterflies"
+      },
+      "artists": [
+        {
+          "name": "William Black"
+        },
+        {
+          "name": "Fairlane"
+        },
+        {
+          "name": "Dia Frampton"
+        }
+      ],
+      "duration_ms": 201931,
+      "external_ids": {
+        "isrc": "GBKPL2083846"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/24UjTh2wPv6g78XeRNbyCQ"
+      },
+      "id": "24UjTh2wPv6g78XeRNbyCQ",
+      "name": "Butterflies"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Can’t Help Myself"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander"
+        }
+      ],
+      "duration_ms": 217095,
+      "external_ids": {
+        "isrc": "AUWA02000562"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/46VHayrUo5B9tr9QBojnxs"
+      },
+      "id": "46VHayrUo5B9tr9QBojnxs",
+      "name": "Can’t Help Myself"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Sunsets With You"
+      },
+      "artists": [
+        {
+          "name": "Kaivon"
+        }
+      ],
+      "duration_ms": 228292,
+      "external_ids": {
+        "isrc": "QZHN92060022"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2akq2VGOfII2v4nI1S66fL"
+      },
+      "id": "2akq2VGOfII2v4nI1S66fL",
+      "name": "Sunsets With You"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "I Need"
+      },
+      "artists": [
+        {
+          "name": "Sasha Rome"
+        },
+        {
+          "name": "capshun"
+        }
+      ],
+      "duration_ms": 171129,
+      "external_ids": {
+        "isrc": "QM42K1993104"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0GQIKU1SAydsJmcZCr4OF0"
+      },
+      "id": "0GQIKU1SAydsJmcZCr4OF0",
+      "name": "I Need"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Imagination"
+      },
+      "artists": [
+        {
+          "name": "iGerman"
+        },
+        {
+          "name": "xoedoxo"
+        }
+      ],
+      "duration_ms": 178536,
+      "external_ids": {
+        "isrc": "USA2P2021128"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/47Au9gs4EFabXhFVBTg6Xk"
+      },
+      "id": "47Au9gs4EFabXhFVBTg6Xk",
+      "name": "Imagination"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Signs (Stripped)"
+      },
+      "artists": [
+        {
+          "name": "Running Touch"
+        }
+      ],
+      "duration_ms": 242385,
+      "external_ids": {
+        "isrc": "AUUM72000405"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/66mJCajnKdLBuaSv4fsRFI"
+      },
+      "id": "66mJCajnKdLBuaSv4fsRFI",
+      "name": "Signs"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Safehouse - Seycara Orchestral Remix"
+      },
+      "artists": [
+        {
+          "name": "JVNA"
+        },
+        {
+          "name": "Seycara Orchestral"
+        }
+      ],
+      "duration_ms": 185489,
+      "external_ids": {
+        "isrc": "CA5KR2084722"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7kcy24bSkpD5YnSYnHc8Cg"
+      },
+      "id": "7kcy24bSkpD5YnSYnHc8Cg",
+      "name": "Safehouse - Seycara Orchestral Remix"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Till The Day I Die"
+      },
+      "artists": [
+        {
+          "name": "Lucii"
+        }
+      ],
+      "duration_ms": 150859,
+      "external_ids": {
+        "isrc": "QM7282096631"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7n8ZP3gWPUPcMR2bZgFz7l"
+      },
+      "id": "7n8ZP3gWPUPcMR2bZgFz7l",
+      "name": "Till The Day I Die"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Daytrip"
+      },
+      "artists": [
+        {
+          "name": "oksami"
+        }
+      ],
+      "duration_ms": 184864,
+      "external_ids": {
+        "isrc": "QZHNA2018577"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4PxyJ2pbbXfoBnMHWh5x9O"
+      },
+      "id": "4PxyJ2pbbXfoBnMHWh5x9O",
+      "name": "Daytrip"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "ENERGY (Deluxe)"
+      },
+      "artists": [
+        {
+          "name": "Disclosure"
+        },
+        {
+          "name": "Common"
+        }
+      ],
+      "duration_ms": 135400,
+      "external_ids": {
+        "isrc": "GBUM72000475"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6A3ksp6K1rg7UN3i3Wzc3c"
+      },
+      "id": "6A3ksp6K1rg7UN3i3Wzc3c",
+      "name": "Reverie"
+    }
+  },
+  {
+    "track": {
+      "album": {
+        "name": "Fluorescence"
+      },
+      "artists": [
+        {
+          "name": "MYRNE"
+        },
+        {
+          "name": "Manila Killa"
+        }
+      ],
+      "duration_ms": 223772,
+      "external_ids": {
+        "isrc": "USUS12000069"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6gF0zZHbbIGKCeKmS1NrLk"
+      },
+      "id": "6gF0zZHbbIGKCeKmS1NrLk",
+      "name": "Fear"
+    }
+  }
+]
